@@ -1,0 +1,5 @@
+weather,record_count,avg_users,avg_download_speed,avg_upload_speed,avg_latency,congestion_rate
+Storm,182,560.72,52.59,24.33,105.6,7.69
+Snow,340,547.87,50.68,26.25,109.71,7.35
+Rain,541,527.19,52.96,25.02,107.81,7.02
+Clear,2542,527.56,52.06,25.11,103.87,4.96

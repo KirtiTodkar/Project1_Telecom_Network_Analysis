@@ -1,0 +1,1001 @@
+ticket_id,created_at,region,tower_id,issue_type,priority,status,resolved_at
+TKT00001,2025-01-01 00:00:00,Bangalore,T076,Slow Internet,Medium,Resolved,2025-01-02 07:00:00
+TKT00002,2025-01-01 01:00:00,Hyderabad,T100,Call Drop,Medium,Resolved,2025-01-02 01:00:00
+TKT00003,2025-01-01 02:00:00,Delhi,T068,Network Outage,Low,Resolved,2025-01-01 16:00:00
+TKT00004,2025-01-01 03:00:00,Hyderabad,T005,Network Outage,Critical,Resolved,2025-01-03 00:00:00
+TKT00005,2025-01-01 04:00:00,Hyderabad,T037,No Service,High,In Progress,
+TKT00006,2025-01-01 05:00:00,Mumbai,T072,Network Outage,Critical,Resolved,2025-01-02 06:00:00
+TKT00007,2025-01-01 06:00:00,Delhi,T092,Call Drop,Critical,Resolved,2025-01-02 16:00:00
+TKT00008,2025-01-01 07:00:00,Delhi,T031,Call Drop,Critical,Resolved,2025-01-01 10:00:00
+TKT00009,2025-01-01 08:00:00,Delhi,T009,Network Outage,Medium,Resolved,2025-01-02 08:00:00
+TKT00010,2025-01-01 09:00:00,Hyderabad,T051,Call Drop,Low,Resolved,2025-01-03 03:00:00
+TKT00011,2025-01-01 10:00:00,Bangalore,T029,No Service,Low,Resolved,2025-01-01 19:00:00
+TKT00012,2025-01-01 11:00:00,Delhi,T078,High Latency,Medium,Resolved,2025-01-02 13:00:00
+TKT00013,2025-01-01 12:00:00,Hyderabad,T040,No Service,Medium,Resolved,2025-01-02 08:00:00
+TKT00014,2025-01-01 13:00:00,Mumbai,T041,No Service,Low,Resolved,2025-01-03 05:00:00
+TKT00015,2025-01-01 14:00:00,Bangalore,T086,Call Drop,Critical,Open,
+TKT00016,2025-01-01 15:00:00,Mumbai,T011,High Latency,High,Open,
+TKT00017,2025-01-01 16:00:00,Bangalore,T023,Call Drop,High,Resolved,2025-01-02 02:00:00
+TKT00018,2025-01-01 17:00:00,Hyderabad,T001,Slow Internet,High,Resolved,2025-01-02 12:00:00
+TKT00019,2025-01-01 18:00:00,Pune,T046,Call Drop,Critical,In Progress,
+TKT00020,2025-01-01 19:00:00,Bangalore,T021,Call Drop,Low,Resolved,2025-01-01 22:00:00
+TKT00021,2025-01-01 20:00:00,Mumbai,T090,Call Drop,Medium,In Progress,
+TKT00022,2025-01-01 21:00:00,Hyderabad,T036,High Latency,Low,Resolved,2025-01-02 21:00:00
+TKT00023,2025-01-01 22:00:00,Bangalore,T054,Call Drop,Critical,Resolved,2025-01-02 03:00:00
+TKT00024,2025-01-01 23:00:00,Pune,T087,High Latency,Medium,Open,
+TKT00025,2025-01-02 00:00:00,Pune,T057,Network Outage,Critical,In Progress,
+TKT00026,2025-01-02 01:00:00,Delhi,T001,Slow Internet,High,Resolved,2025-01-02 04:00:00
+TKT00027,2025-01-02 02:00:00,Delhi,T063,High Latency,High,Resolved,2025-01-03 05:00:00
+TKT00028,2025-01-02 03:00:00,Mumbai,T054,Network Outage,Critical,Resolved,2025-01-02 19:00:00
+TKT00029,2025-01-02 04:00:00,Bangalore,T055,High Latency,Medium,Resolved,2025-01-02 19:00:00
+TKT00030,2025-01-02 05:00:00,Bangalore,T040,High Latency,Medium,Resolved,2025-01-03 16:00:00
+TKT00031,2025-01-02 06:00:00,Delhi,T015,Slow Internet,Low,Resolved,2025-01-02 18:00:00
+TKT00032,2025-01-02 07:00:00,Bangalore,T021,No Service,High,In Progress,
+TKT00033,2025-01-02 08:00:00,Bangalore,T047,No Service,Low,Resolved,2025-01-04 01:00:00
+TKT00034,2025-01-02 09:00:00,Pune,T073,High Latency,Low,Resolved,2025-01-04 05:00:00
+TKT00035,2025-01-02 10:00:00,Delhi,T053,Call Drop,Critical,Resolved,2025-01-03 12:00:00
+TKT00036,2025-01-02 11:00:00,Hyderabad,T009,Network Outage,Critical,Resolved,2025-01-04 10:00:00
+TKT00037,2025-01-02 12:00:00,Delhi,T074,Call Drop,Low,Resolved,2025-01-03 22:00:00
+TKT00038,2025-01-02 13:00:00,Hyderabad,T052,Call Drop,High,Resolved,2025-01-03 12:00:00
+TKT00039,2025-01-02 14:00:00,Pune,T057,High Latency,Critical,Resolved,2025-01-03 21:00:00
+TKT00040,2025-01-02 15:00:00,Mumbai,T026,High Latency,Low,In Progress,
+TKT00041,2025-01-02 16:00:00,Bangalore,T041,High Latency,Low,In Progress,
+TKT00042,2025-01-02 17:00:00,Pune,T035,High Latency,Low,Resolved,2025-01-03 13:00:00
+TKT00043,2025-01-02 18:00:00,Bangalore,T063,No Service,Low,In Progress,
+TKT00044,2025-01-02 19:00:00,Mumbai,T025,High Latency,Low,Resolved,2025-01-03 07:00:00
+TKT00045,2025-01-02 20:00:00,Mumbai,T090,No Service,Low,Resolved,2025-01-03 19:00:00
+TKT00046,2025-01-02 21:00:00,Pune,T075,No Service,Critical,Resolved,2025-01-03 01:00:00
+TKT00047,2025-01-02 22:00:00,Mumbai,T038,High Latency,High,Resolved,2025-01-03 21:00:00
+TKT00048,2025-01-02 23:00:00,Hyderabad,T002,Slow Internet,Low,Resolved,2025-01-04 23:00:00
+TKT00049,2025-01-03 00:00:00,Mumbai,T007,Network Outage,Medium,Open,
+TKT00050,2025-01-03 01:00:00,Bangalore,T082,Call Drop,Critical,Resolved,2025-01-05 01:00:00
+TKT00051,2025-01-03 02:00:00,Bangalore,T091,No Service,Critical,Open,
+TKT00052,2025-01-03 03:00:00,Bangalore,T034,Network Outage,Low,Resolved,2025-01-03 04:00:00
+TKT00053,2025-01-03 04:00:00,Bangalore,T091,Slow Internet,Critical,Resolved,2025-01-04 05:00:00
+TKT00054,2025-01-03 05:00:00,Hyderabad,T017,Call Drop,Low,In Progress,
+TKT00055,2025-01-03 06:00:00,Delhi,T043,Call Drop,High,Resolved,2025-01-03 08:00:00
+TKT00056,2025-01-03 07:00:00,Pune,T059,No Service,High,Resolved,2025-01-04 13:00:00
+TKT00057,2025-01-03 08:00:00,Bangalore,T051,High Latency,Critical,Resolved,2025-01-03 11:00:00
+TKT00058,2025-01-03 09:00:00,Mumbai,T054,Slow Internet,Critical,Resolved,2025-01-04 06:00:00
+TKT00059,2025-01-03 10:00:00,Bangalore,T024,No Service,Medium,Resolved,2025-01-04 11:00:00
+TKT00060,2025-01-03 11:00:00,Mumbai,T025,Slow Internet,Critical,Resolved,2025-01-04 07:00:00
+TKT00061,2025-01-03 12:00:00,Mumbai,T071,High Latency,Medium,Resolved,2025-01-04 10:00:00
+TKT00062,2025-01-03 13:00:00,Bangalore,T052,High Latency,High,In Progress,
+TKT00063,2025-01-03 14:00:00,Hyderabad,T070,No Service,High,Resolved,2025-01-04 11:00:00
+TKT00064,2025-01-03 15:00:00,Mumbai,T088,High Latency,Low,Resolved,2025-01-05 00:00:00
+TKT00065,2025-01-03 16:00:00,Mumbai,T033,Network Outage,High,Resolved,2025-01-05 06:00:00
+TKT00066,2025-01-03 17:00:00,Bangalore,T049,Call Drop,Medium,In Progress,
+TKT00067,2025-01-03 18:00:00,Mumbai,T029,No Service,Critical,Resolved,2025-01-04 09:00:00
+TKT00068,2025-01-03 19:00:00,Mumbai,T063,Slow Internet,Low,Resolved,2025-01-05 17:00:00
+TKT00069,2025-01-03 20:00:00,Bangalore,T022,Network Outage,Medium,Resolved,2025-01-04 11:00:00
+TKT00070,2025-01-03 21:00:00,Bangalore,T026,No Service,Critical,Resolved,2025-01-05 19:00:00
+TKT00071,2025-01-03 22:00:00,Pune,T028,High Latency,Low,Open,
+TKT00072,2025-01-03 23:00:00,Hyderabad,T085,High Latency,High,Resolved,2025-01-05 00:00:00
+TKT00073,2025-01-04 00:00:00,Hyderabad,T049,High Latency,Medium,Resolved,2025-01-04 21:00:00
+TKT00074,2025-01-04 01:00:00,Mumbai,T071,High Latency,Critical,Resolved,2025-01-05 01:00:00
+TKT00075,2025-01-04 02:00:00,Hyderabad,T081,Slow Internet,Low,Resolved,2025-01-04 07:00:00
+TKT00076,2025-01-04 03:00:00,Mumbai,T084,Network Outage,Low,In Progress,
+TKT00077,2025-01-04 04:00:00,Pune,T049,Call Drop,High,In Progress,
+TKT00078,2025-01-04 05:00:00,Bangalore,T020,Slow Internet,Critical,Resolved,2025-01-04 11:00:00
+TKT00079,2025-01-04 06:00:00,Bangalore,T086,Slow Internet,High,Open,
+TKT00080,2025-01-04 07:00:00,Bangalore,T092,Call Drop,High,Resolved,2025-01-06 02:00:00
+TKT00081,2025-01-04 08:00:00,Hyderabad,T063,Call Drop,Critical,Resolved,2025-01-06 08:00:00
+TKT00082,2025-01-04 09:00:00,Pune,T061,High Latency,Critical,Resolved,2025-01-06 05:00:00
+TKT00083,2025-01-04 10:00:00,Hyderabad,T049,Slow Internet,Critical,Resolved,2025-01-06 09:00:00
+TKT00084,2025-01-04 11:00:00,Hyderabad,T071,No Service,Medium,Resolved,2025-01-05 10:00:00
+TKT00085,2025-01-04 12:00:00,Pune,T001,Call Drop,Critical,In Progress,
+TKT00086,2025-01-04 13:00:00,Pune,T096,Call Drop,Low,Resolved,2025-01-04 17:00:00
+TKT00087,2025-01-04 14:00:00,Pune,T013,Network Outage,High,Open,
+TKT00088,2025-01-04 15:00:00,Pune,T094,No Service,Medium,Resolved,2025-01-05 18:00:00
+TKT00089,2025-01-04 16:00:00,Bangalore,T087,No Service,Critical,Open,
+TKT00090,2025-01-04 17:00:00,Delhi,T051,Call Drop,Medium,Resolved,2025-01-05 11:00:00
+TKT00091,2025-01-04 18:00:00,Delhi,T056,High Latency,Critical,Resolved,2025-01-05 15:00:00
+TKT00092,2025-01-04 19:00:00,Pune,T083,Network Outage,Medium,Resolved,2025-01-05 23:00:00
+TKT00093,2025-01-04 20:00:00,Delhi,T062,No Service,High,Open,
+TKT00094,2025-01-04 21:00:00,Delhi,T032,Call Drop,High,Resolved,2025-01-06 08:00:00
+TKT00095,2025-01-04 22:00:00,Pune,T030,No Service,Low,Open,
+TKT00096,2025-01-04 23:00:00,Delhi,T029,Network Outage,Low,Resolved,2025-01-05 21:00:00
+TKT00097,2025-01-05 00:00:00,Hyderabad,T049,Network Outage,Critical,Resolved,2025-01-06 16:00:00
+TKT00098,2025-01-05 01:00:00,Mumbai,T045,Slow Internet,High,Open,
+TKT00099,2025-01-05 02:00:00,Mumbai,T093,Call Drop,Medium,Resolved,2025-01-06 01:00:00
+TKT00100,2025-01-05 03:00:00,Pune,T030,Network Outage,Medium,Resolved,2025-01-05 06:00:00
+TKT00101,2025-01-05 04:00:00,Bangalore,T016,Slow Internet,Medium,Resolved,2025-01-06 20:00:00
+TKT00102,2025-01-05 05:00:00,Pune,T040,Slow Internet,Low,Open,
+TKT00103,2025-01-05 06:00:00,Bangalore,T019,No Service,Medium,Resolved,2025-01-05 16:00:00
+TKT00104,2025-01-05 07:00:00,Mumbai,T018,No Service,Low,In Progress,
+TKT00105,2025-01-05 08:00:00,Pune,T001,Slow Internet,Low,Resolved,2025-01-06 09:00:00
+TKT00106,2025-01-05 09:00:00,Hyderabad,T078,No Service,Critical,In Progress,
+TKT00107,2025-01-05 10:00:00,Delhi,T047,Network Outage,Medium,In Progress,
+TKT00108,2025-01-05 11:00:00,Bangalore,T066,High Latency,Medium,Resolved,2025-01-05 19:00:00
+TKT00109,2025-01-05 12:00:00,Delhi,T092,Network Outage,High,Resolved,2025-01-05 23:00:00
+TKT00110,2025-01-05 13:00:00,Delhi,T094,Slow Internet,Critical,Resolved,2025-01-05 18:00:00
+TKT00111,2025-01-05 14:00:00,Pune,T038,Slow Internet,High,Resolved,2025-01-07 11:00:00
+TKT00112,2025-01-05 15:00:00,Delhi,T051,Network Outage,Critical,Resolved,2025-01-07 04:00:00
+TKT00113,2025-01-05 16:00:00,Hyderabad,T063,No Service,Medium,Resolved,2025-01-07 13:00:00
+TKT00114,2025-01-05 17:00:00,Delhi,T004,No Service,Low,Resolved,2025-01-07 07:00:00
+TKT00115,2025-01-05 18:00:00,Pune,T001,Slow Internet,Low,Resolved,2025-01-06 23:00:00
+TKT00116,2025-01-05 19:00:00,Hyderabad,T008,Call Drop,Low,Resolved,2025-01-06 00:00:00
+TKT00117,2025-01-05 20:00:00,Mumbai,T029,No Service,Low,Resolved,2025-01-06 05:00:00
+TKT00118,2025-01-05 21:00:00,Delhi,T055,Network Outage,Low,In Progress,
+TKT00119,2025-01-05 22:00:00,Pune,T003,No Service,High,Resolved,2025-01-07 22:00:00
+TKT00120,2025-01-05 23:00:00,Mumbai,T032,Network Outage,Critical,Resolved,2025-01-06 01:00:00
+TKT00121,2025-01-06 00:00:00,Mumbai,T010,Slow Internet,Medium,Resolved,2025-01-06 01:00:00
+TKT00122,2025-01-06 01:00:00,Bangalore,T074,No Service,High,Open,
+TKT00123,2025-01-06 02:00:00,Hyderabad,T083,Network Outage,Critical,In Progress,
+TKT00124,2025-01-06 03:00:00,Delhi,T034,Slow Internet,Low,Open,
+TKT00125,2025-01-06 04:00:00,Pune,T097,Call Drop,Critical,In Progress,
+TKT00126,2025-01-06 05:00:00,Bangalore,T087,Network Outage,Critical,Resolved,2025-01-07 21:00:00
+TKT00127,2025-01-06 06:00:00,Hyderabad,T055,Call Drop,Low,Open,
+TKT00128,2025-01-06 07:00:00,Bangalore,T092,Call Drop,Low,Resolved,2025-01-07 13:00:00
+TKT00129,2025-01-06 08:00:00,Hyderabad,T032,High Latency,Low,Resolved,2025-01-06 19:00:00
+TKT00130,2025-01-06 09:00:00,Hyderabad,T050,No Service,Medium,In Progress,
+TKT00131,2025-01-06 10:00:00,Delhi,T007,Network Outage,Low,Resolved,2025-01-07 14:00:00
+TKT00132,2025-01-06 11:00:00,Hyderabad,T093,Call Drop,Medium,Resolved,2025-01-08 07:00:00
+TKT00133,2025-01-06 12:00:00,Bangalore,T008,High Latency,Low,Resolved,2025-01-07 00:00:00
+TKT00134,2025-01-06 13:00:00,Hyderabad,T065,Slow Internet,Medium,Resolved,2025-01-08 04:00:00
+TKT00135,2025-01-06 14:00:00,Delhi,T057,Network Outage,Critical,Resolved,2025-01-07 16:00:00
+TKT00136,2025-01-06 15:00:00,Delhi,T067,Call Drop,High,Resolved,2025-01-07 04:00:00
+TKT00137,2025-01-06 16:00:00,Bangalore,T088,No Service,Critical,Resolved,2025-01-07 00:00:00
+TKT00138,2025-01-06 17:00:00,Mumbai,T087,High Latency,Critical,Resolved,2025-01-07 21:00:00
+TKT00139,2025-01-06 18:00:00,Mumbai,T059,Call Drop,Low,Open,
+TKT00140,2025-01-06 19:00:00,Hyderabad,T072,No Service,Medium,Resolved,2025-01-08 01:00:00
+TKT00141,2025-01-06 20:00:00,Pune,T054,Call Drop,High,Resolved,2025-01-07 05:00:00
+TKT00142,2025-01-06 21:00:00,Hyderabad,T067,Network Outage,Low,In Progress,
+TKT00143,2025-01-06 22:00:00,Bangalore,T051,Network Outage,Low,Open,
+TKT00144,2025-01-06 23:00:00,Bangalore,T097,Network Outage,Low,Resolved,2025-01-08 14:00:00
+TKT00145,2025-01-07 00:00:00,Bangalore,T092,High Latency,Critical,Resolved,2025-01-08 07:00:00
+TKT00146,2025-01-07 01:00:00,Bangalore,T008,Network Outage,Medium,Open,
+TKT00147,2025-01-07 02:00:00,Bangalore,T034,No Service,Medium,Open,
+TKT00148,2025-01-07 03:00:00,Delhi,T035,Call Drop,High,Resolved,2025-01-08 00:00:00
+TKT00149,2025-01-07 04:00:00,Mumbai,T096,Slow Internet,Medium,Resolved,2025-01-09 03:00:00
+TKT00150,2025-01-07 05:00:00,Bangalore,T088,No Service,Medium,Resolved,2025-01-08 15:00:00
+TKT00151,2025-01-07 06:00:00,Pune,T078,No Service,Low,Resolved,2025-01-08 13:00:00
+TKT00152,2025-01-07 07:00:00,Pune,T032,Network Outage,Low,Resolved,2025-01-08 08:00:00
+TKT00153,2025-01-07 08:00:00,Pune,T046,High Latency,Critical,Resolved,2025-01-07 20:00:00
+TKT00154,2025-01-07 09:00:00,Pune,T016,Call Drop,Low,Resolved,2025-01-07 10:00:00
+TKT00155,2025-01-07 10:00:00,Delhi,T068,High Latency,Low,Resolved,2025-01-08 08:00:00
+TKT00156,2025-01-07 11:00:00,Pune,T037,Call Drop,Low,Resolved,2025-01-09 03:00:00
+TKT00157,2025-01-07 12:00:00,Bangalore,T054,Call Drop,Low,Open,
+TKT00158,2025-01-07 13:00:00,Hyderabad,T085,High Latency,Critical,Resolved,2025-01-09 02:00:00
+TKT00159,2025-01-07 14:00:00,Pune,T014,No Service,Low,Resolved,2025-01-09 13:00:00
+TKT00160,2025-01-07 15:00:00,Delhi,T095,Call Drop,High,Open,
+TKT00161,2025-01-07 16:00:00,Delhi,T055,High Latency,High,Resolved,2025-01-07 17:00:00
+TKT00162,2025-01-07 17:00:00,Pune,T048,Call Drop,High,Resolved,2025-01-07 18:00:00
+TKT00163,2025-01-07 18:00:00,Hyderabad,T082,Slow Internet,High,Resolved,2025-01-09 12:00:00
+TKT00164,2025-01-07 19:00:00,Pune,T007,No Service,Low,Resolved,2025-01-09 13:00:00
+TKT00165,2025-01-07 20:00:00,Delhi,T074,Network Outage,High,Open,
+TKT00166,2025-01-07 21:00:00,Mumbai,T007,Call Drop,Low,Resolved,2025-01-08 18:00:00
+TKT00167,2025-01-07 22:00:00,Bangalore,T033,Slow Internet,Critical,Resolved,2025-01-08 13:00:00
+TKT00168,2025-01-07 23:00:00,Delhi,T023,Network Outage,High,Resolved,2025-01-08 16:00:00
+TKT00169,2025-01-08 00:00:00,Pune,T085,Network Outage,Medium,Resolved,2025-01-08 22:00:00
+TKT00170,2025-01-08 01:00:00,Bangalore,T019,Call Drop,High,In Progress,
+TKT00171,2025-01-08 02:00:00,Pune,T019,High Latency,High,Resolved,2025-01-09 16:00:00
+TKT00172,2025-01-08 03:00:00,Pune,T036,Call Drop,Low,Resolved,2025-01-09 14:00:00
+TKT00173,2025-01-08 04:00:00,Mumbai,T029,Slow Internet,High,Resolved,2025-01-10 01:00:00
+TKT00174,2025-01-08 05:00:00,Bangalore,T060,Network Outage,Medium,Resolved,2025-01-08 21:00:00
+TKT00175,2025-01-08 06:00:00,Bangalore,T082,Call Drop,Low,Resolved,2025-01-08 14:00:00
+TKT00176,2025-01-08 07:00:00,Mumbai,T002,High Latency,Low,Resolved,2025-01-10 06:00:00
+TKT00177,2025-01-08 08:00:00,Delhi,T001,Call Drop,Critical,Resolved,2025-01-09 01:00:00
+TKT00178,2025-01-08 09:00:00,Pune,T047,No Service,Critical,Resolved,2025-01-09 02:00:00
+TKT00179,2025-01-08 10:00:00,Hyderabad,T069,High Latency,High,Resolved,2025-01-09 12:00:00
+TKT00180,2025-01-08 11:00:00,Pune,T020,Slow Internet,Critical,Resolved,2025-01-09 00:00:00
+TKT00181,2025-01-08 12:00:00,Pune,T011,Network Outage,Critical,Resolved,2025-01-09 05:00:00
+TKT00182,2025-01-08 13:00:00,Delhi,T002,Call Drop,Critical,Open,
+TKT00183,2025-01-08 14:00:00,Pune,T067,High Latency,Low,Resolved,2025-01-10 04:00:00
+TKT00184,2025-01-08 15:00:00,Mumbai,T087,No Service,Low,Resolved,2025-01-09 08:00:00
+TKT00185,2025-01-08 16:00:00,Mumbai,T012,High Latency,Low,Resolved,2025-01-10 16:00:00
+TKT00186,2025-01-08 17:00:00,Bangalore,T020,No Service,Critical,Resolved,2025-01-09 07:00:00
+TKT00187,2025-01-08 18:00:00,Hyderabad,T005,Slow Internet,Low,Resolved,2025-01-10 15:00:00
+TKT00188,2025-01-08 19:00:00,Pune,T037,Network Outage,Critical,Resolved,2025-01-09 01:00:00
+TKT00189,2025-01-08 20:00:00,Pune,T038,Slow Internet,Low,Resolved,2025-01-10 07:00:00
+TKT00190,2025-01-08 21:00:00,Delhi,T094,Call Drop,Low,Resolved,2025-01-10 19:00:00
+TKT00191,2025-01-08 22:00:00,Mumbai,T009,High Latency,Medium,Open,
+TKT00192,2025-01-08 23:00:00,Hyderabad,T098,No Service,High,Open,
+TKT00193,2025-01-09 00:00:00,Bangalore,T053,No Service,Critical,Resolved,2025-01-09 14:00:00
+TKT00194,2025-01-09 01:00:00,Mumbai,T044,High Latency,Medium,Resolved,2025-01-11 00:00:00
+TKT00195,2025-01-09 02:00:00,Bangalore,T099,High Latency,Low,Resolved,2025-01-09 10:00:00
+TKT00196,2025-01-09 03:00:00,Delhi,T086,Call Drop,Critical,Resolved,2025-01-09 18:00:00
+TKT00197,2025-01-09 04:00:00,Delhi,T024,Slow Internet,Low,In Progress,
+TKT00198,2025-01-09 05:00:00,Pune,T081,No Service,High,Resolved,2025-01-10 08:00:00
+TKT00199,2025-01-09 06:00:00,Hyderabad,T074,Call Drop,Medium,Resolved,2025-01-09 19:00:00
+TKT00200,2025-01-09 07:00:00,Bangalore,T030,Slow Internet,High,Resolved,2025-01-10 14:00:00
+TKT00201,2025-01-09 08:00:00,Mumbai,T059,Call Drop,Medium,Resolved,2025-01-10 19:00:00
+TKT00202,2025-01-09 09:00:00,Delhi,T087,No Service,Low,Resolved,2025-01-09 15:00:00
+TKT00203,2025-01-09 10:00:00,Pune,T096,High Latency,High,Resolved,2025-01-09 15:00:00
+TKT00204,2025-01-09 11:00:00,Pune,T081,High Latency,High,Resolved,2025-01-10 09:00:00
+TKT00205,2025-01-09 12:00:00,Bangalore,T081,Slow Internet,Low,Resolved,2025-01-10 11:00:00
+TKT00206,2025-01-09 13:00:00,Delhi,T014,Network Outage,High,Resolved,2025-01-10 14:00:00
+TKT00207,2025-01-09 14:00:00,Hyderabad,T009,Slow Internet,Critical,Resolved,2025-01-11 00:00:00
+TKT00208,2025-01-09 15:00:00,Delhi,T040,Network Outage,Medium,Resolved,2025-01-10 17:00:00
+TKT00209,2025-01-09 16:00:00,Bangalore,T066,Call Drop,Medium,Resolved,2025-01-11 15:00:00
+TKT00210,2025-01-09 17:00:00,Bangalore,T025,Call Drop,Medium,Resolved,2025-01-09 22:00:00
+TKT00211,2025-01-09 18:00:00,Delhi,T073,No Service,Critical,Resolved,2025-01-10 20:00:00
+TKT00212,2025-01-09 19:00:00,Bangalore,T022,Network Outage,Medium,Resolved,2025-01-10 15:00:00
+TKT00213,2025-01-09 20:00:00,Delhi,T004,No Service,Low,In Progress,
+TKT00214,2025-01-09 21:00:00,Mumbai,T026,High Latency,High,Resolved,2025-01-10 03:00:00
+TKT00215,2025-01-09 22:00:00,Delhi,T058,Network Outage,Critical,Resolved,2025-01-10 04:00:00
+TKT00216,2025-01-09 23:00:00,Delhi,T029,Slow Internet,Medium,Resolved,2025-01-10 17:00:00
+TKT00217,2025-01-10 00:00:00,Bangalore,T098,High Latency,Low,Resolved,2025-01-10 04:00:00
+TKT00218,2025-01-10 01:00:00,Bangalore,T087,High Latency,High,Resolved,2025-01-10 18:00:00
+TKT00219,2025-01-10 02:00:00,Pune,T037,Slow Internet,High,Resolved,2025-01-10 16:00:00
+TKT00220,2025-01-10 03:00:00,Pune,T075,High Latency,Critical,In Progress,
+TKT00221,2025-01-10 04:00:00,Mumbai,T070,Network Outage,Critical,Resolved,2025-01-10 18:00:00
+TKT00222,2025-01-10 05:00:00,Pune,T018,No Service,Critical,Resolved,2025-01-10 18:00:00
+TKT00223,2025-01-10 06:00:00,Delhi,T085,High Latency,Low,Resolved,2025-01-10 13:00:00
+TKT00224,2025-01-10 07:00:00,Bangalore,T042,Network Outage,Low,Resolved,2025-01-12 03:00:00
+TKT00225,2025-01-10 08:00:00,Pune,T100,Call Drop,Critical,Open,
+TKT00226,2025-01-10 09:00:00,Pune,T041,Network Outage,Medium,Resolved,2025-01-11 00:00:00
+TKT00227,2025-01-10 10:00:00,Mumbai,T038,No Service,High,Resolved,2025-01-11 05:00:00
+TKT00228,2025-01-10 11:00:00,Mumbai,T034,Network Outage,High,Open,
+TKT00229,2025-01-10 12:00:00,Delhi,T017,Slow Internet,Low,Resolved,2025-01-12 07:00:00
+TKT00230,2025-01-10 13:00:00,Bangalore,T037,No Service,High,Resolved,2025-01-12 12:00:00
+TKT00231,2025-01-10 14:00:00,Mumbai,T025,Call Drop,Medium,Resolved,2025-01-12 10:00:00
+TKT00232,2025-01-10 15:00:00,Pune,T076,Slow Internet,High,Resolved,2025-01-12 02:00:00
+TKT00233,2025-01-10 16:00:00,Bangalore,T087,Network Outage,Low,Resolved,2025-01-11 09:00:00
+TKT00234,2025-01-10 17:00:00,Bangalore,T086,No Service,Low,Resolved,2025-01-12 04:00:00
+TKT00235,2025-01-10 18:00:00,Pune,T085,Call Drop,Medium,Resolved,2025-01-11 13:00:00
+TKT00236,2025-01-10 19:00:00,Mumbai,T027,Slow Internet,Medium,Resolved,2025-01-11 15:00:00
+TKT00237,2025-01-10 20:00:00,Pune,T057,Call Drop,High,Resolved,2025-01-12 08:00:00
+TKT00238,2025-01-10 21:00:00,Bangalore,T031,Network Outage,High,Resolved,2025-01-12 08:00:00
+TKT00239,2025-01-10 22:00:00,Hyderabad,T006,Call Drop,Low,Resolved,2025-01-12 06:00:00
+TKT00240,2025-01-10 23:00:00,Hyderabad,T091,High Latency,Medium,Resolved,2025-01-12 23:00:00
+TKT00241,2025-01-11 00:00:00,Delhi,T040,Slow Internet,Medium,Resolved,2025-01-12 20:00:00
+TKT00242,2025-01-11 01:00:00,Pune,T098,Call Drop,Medium,Resolved,2025-01-12 17:00:00
+TKT00243,2025-01-11 02:00:00,Pune,T012,Network Outage,High,Resolved,2025-01-12 02:00:00
+TKT00244,2025-01-11 03:00:00,Delhi,T053,Network Outage,Medium,Resolved,2025-01-11 20:00:00
+TKT00245,2025-01-11 04:00:00,Delhi,T071,Call Drop,Low,In Progress,
+TKT00246,2025-01-11 05:00:00,Delhi,T010,Network Outage,Low,Resolved,2025-01-11 12:00:00
+TKT00247,2025-01-11 06:00:00,Bangalore,T045,No Service,High,Resolved,2025-01-13 01:00:00
+TKT00248,2025-01-11 07:00:00,Pune,T017,No Service,Critical,Resolved,2025-01-11 08:00:00
+TKT00249,2025-01-11 08:00:00,Bangalore,T026,No Service,High,Resolved,2025-01-12 19:00:00
+TKT00250,2025-01-11 09:00:00,Delhi,T085,High Latency,Critical,Resolved,2025-01-12 17:00:00
+TKT00251,2025-01-11 10:00:00,Pune,T092,Call Drop,Medium,Open,
+TKT00252,2025-01-11 11:00:00,Bangalore,T062,High Latency,High,Resolved,2025-01-12 23:00:00
+TKT00253,2025-01-11 12:00:00,Bangalore,T046,Network Outage,Low,Resolved,2025-01-12 01:00:00
+TKT00254,2025-01-11 13:00:00,Delhi,T064,High Latency,Medium,Resolved,2025-01-11 19:00:00
+TKT00255,2025-01-11 14:00:00,Pune,T002,Network Outage,Low,Resolved,2025-01-12 04:00:00
+TKT00256,2025-01-11 15:00:00,Delhi,T054,Network Outage,Medium,Resolved,2025-01-13 04:00:00
+TKT00257,2025-01-11 16:00:00,Pune,T065,Slow Internet,High,Resolved,2025-01-13 16:00:00
+TKT00258,2025-01-11 17:00:00,Hyderabad,T051,No Service,Critical,Resolved,2025-01-12 08:00:00
+TKT00259,2025-01-11 18:00:00,Mumbai,T053,Network Outage,Medium,Resolved,2025-01-13 17:00:00
+TKT00260,2025-01-11 19:00:00,Mumbai,T036,Slow Internet,Critical,Resolved,2025-01-11 23:00:00
+TKT00261,2025-01-11 20:00:00,Mumbai,T026,No Service,Medium,Resolved,2025-01-13 12:00:00
+TKT00262,2025-01-11 21:00:00,Delhi,T029,Network Outage,Low,In Progress,
+TKT00263,2025-01-11 22:00:00,Hyderabad,T021,Network Outage,Low,Resolved,2025-01-12 14:00:00
+TKT00264,2025-01-11 23:00:00,Pune,T011,High Latency,Medium,In Progress,
+TKT00265,2025-01-12 00:00:00,Bangalore,T040,High Latency,Critical,Resolved,2025-01-13 04:00:00
+TKT00266,2025-01-12 01:00:00,Pune,T011,No Service,High,Open,
+TKT00267,2025-01-12 02:00:00,Bangalore,T036,Network Outage,High,Open,
+TKT00268,2025-01-12 03:00:00,Pune,T059,Call Drop,Low,Resolved,2025-01-12 19:00:00
+TKT00269,2025-01-12 04:00:00,Hyderabad,T039,High Latency,High,Resolved,2025-01-12 08:00:00
+TKT00270,2025-01-12 05:00:00,Bangalore,T099,No Service,Low,Resolved,2025-01-14 02:00:00
+TKT00271,2025-01-12 06:00:00,Delhi,T054,Network Outage,High,Open,
+TKT00272,2025-01-12 07:00:00,Pune,T098,Network Outage,Medium,Resolved,2025-01-13 09:00:00
+TKT00273,2025-01-12 08:00:00,Pune,T055,Call Drop,Low,Resolved,2025-01-13 12:00:00
+TKT00274,2025-01-12 09:00:00,Bangalore,T024,No Service,Low,Resolved,2025-01-13 17:00:00
+TKT00275,2025-01-12 10:00:00,Delhi,T022,Network Outage,Medium,In Progress,
+TKT00276,2025-01-12 11:00:00,Delhi,T069,High Latency,Low,Open,
+TKT00277,2025-01-12 12:00:00,Hyderabad,T056,Call Drop,High,In Progress,
+TKT00278,2025-01-12 13:00:00,Delhi,T033,No Service,High,Resolved,2025-01-14 10:00:00
+TKT00279,2025-01-12 14:00:00,Delhi,T036,Call Drop,Low,Resolved,2025-01-12 16:00:00
+TKT00280,2025-01-12 15:00:00,Delhi,T020,High Latency,High,Resolved,2025-01-13 22:00:00
+TKT00281,2025-01-12 16:00:00,Mumbai,T083,No Service,Critical,Resolved,2025-01-12 19:00:00
+TKT00282,2025-01-12 17:00:00,Hyderabad,T099,Call Drop,Low,Resolved,2025-01-13 01:00:00
+TKT00283,2025-01-12 18:00:00,Pune,T081,Slow Internet,Medium,Resolved,2025-01-13 18:00:00
+TKT00284,2025-01-12 19:00:00,Bangalore,T062,High Latency,Critical,Resolved,2025-01-13 10:00:00
+TKT00285,2025-01-12 20:00:00,Pune,T098,High Latency,Low,Resolved,2025-01-14 15:00:00
+TKT00286,2025-01-12 21:00:00,Hyderabad,T073,High Latency,Medium,In Progress,
+TKT00287,2025-01-12 22:00:00,Bangalore,T026,Slow Internet,High,Resolved,2025-01-14 05:00:00
+TKT00288,2025-01-12 23:00:00,Hyderabad,T066,Slow Internet,Medium,Open,
+TKT00289,2025-01-13 00:00:00,Delhi,T073,Network Outage,Critical,Resolved,2025-01-13 09:00:00
+TKT00290,2025-01-13 01:00:00,Bangalore,T073,Call Drop,High,Resolved,2025-01-14 16:00:00
+TKT00291,2025-01-13 02:00:00,Delhi,T040,Network Outage,Low,Resolved,2025-01-14 23:00:00
+TKT00292,2025-01-13 03:00:00,Pune,T017,Call Drop,High,Resolved,2025-01-13 05:00:00
+TKT00293,2025-01-13 04:00:00,Pune,T001,Slow Internet,Low,Resolved,2025-01-13 12:00:00
+TKT00294,2025-01-13 05:00:00,Bangalore,T089,Slow Internet,Low,Resolved,2025-01-13 12:00:00
+TKT00295,2025-01-13 06:00:00,Bangalore,T061,Network Outage,Medium,Resolved,2025-01-15 02:00:00
+TKT00296,2025-01-13 07:00:00,Hyderabad,T043,No Service,Medium,Resolved,2025-01-14 22:00:00
+TKT00297,2025-01-13 08:00:00,Hyderabad,T042,Network Outage,Medium,Resolved,2025-01-15 02:00:00
+TKT00298,2025-01-13 09:00:00,Delhi,T025,Call Drop,Critical,In Progress,
+TKT00299,2025-01-13 10:00:00,Bangalore,T039,Network Outage,Critical,Resolved,2025-01-14 02:00:00
+TKT00300,2025-01-13 11:00:00,Pune,T035,High Latency,Medium,Resolved,2025-01-14 22:00:00
+TKT00301,2025-01-13 12:00:00,Hyderabad,T003,Call Drop,Critical,Resolved,2025-01-14 18:00:00
+TKT00302,2025-01-13 13:00:00,Hyderabad,T044,Call Drop,High,Resolved,2025-01-13 23:00:00
+TKT00303,2025-01-13 14:00:00,Pune,T051,No Service,High,Resolved,2025-01-15 04:00:00
+TKT00304,2025-01-13 15:00:00,Hyderabad,T094,Slow Internet,Critical,Resolved,2025-01-14 09:00:00
+TKT00305,2025-01-13 16:00:00,Delhi,T098,Call Drop,Critical,In Progress,
+TKT00306,2025-01-13 17:00:00,Bangalore,T012,Slow Internet,High,Resolved,2025-01-13 22:00:00
+TKT00307,2025-01-13 18:00:00,Pune,T019,Network Outage,Low,In Progress,
+TKT00308,2025-01-13 19:00:00,Bangalore,T044,High Latency,High,In Progress,
+TKT00309,2025-01-13 20:00:00,Hyderabad,T059,No Service,High,Resolved,2025-01-15 01:00:00
+TKT00310,2025-01-13 21:00:00,Hyderabad,T049,Slow Internet,Critical,Resolved,2025-01-15 12:00:00
+TKT00311,2025-01-13 22:00:00,Pune,T061,Call Drop,High,In Progress,
+TKT00312,2025-01-13 23:00:00,Delhi,T017,Slow Internet,Critical,Resolved,2025-01-15 09:00:00
+TKT00313,2025-01-14 00:00:00,Mumbai,T074,Call Drop,Critical,Resolved,2025-01-15 19:00:00
+TKT00314,2025-01-14 01:00:00,Pune,T057,Slow Internet,Medium,In Progress,
+TKT00315,2025-01-14 02:00:00,Mumbai,T055,Call Drop,High,Resolved,2025-01-15 23:00:00
+TKT00316,2025-01-14 03:00:00,Mumbai,T047,Network Outage,Low,Resolved,2025-01-15 02:00:00
+TKT00317,2025-01-14 04:00:00,Delhi,T012,Call Drop,Medium,Resolved,2025-01-14 09:00:00
+TKT00318,2025-01-14 05:00:00,Mumbai,T062,Call Drop,Critical,Resolved,2025-01-15 11:00:00
+TKT00319,2025-01-14 06:00:00,Mumbai,T080,High Latency,Critical,Resolved,2025-01-14 12:00:00
+TKT00320,2025-01-14 07:00:00,Delhi,T088,Call Drop,Low,Resolved,2025-01-16 05:00:00
+TKT00321,2025-01-14 08:00:00,Mumbai,T083,High Latency,Critical,Resolved,2025-01-16 04:00:00
+TKT00322,2025-01-14 09:00:00,Mumbai,T008,No Service,High,Resolved,2025-01-14 13:00:00
+TKT00323,2025-01-14 10:00:00,Mumbai,T095,High Latency,Medium,Resolved,2025-01-15 15:00:00
+TKT00324,2025-01-14 11:00:00,Pune,T021,Network Outage,Critical,Resolved,2025-01-15 10:00:00
+TKT00325,2025-01-14 12:00:00,Pune,T081,High Latency,Critical,Resolved,2025-01-14 18:00:00
+TKT00326,2025-01-14 13:00:00,Pune,T087,No Service,Low,Resolved,2025-01-15 21:00:00
+TKT00327,2025-01-14 14:00:00,Delhi,T080,Network Outage,High,Resolved,2025-01-16 08:00:00
+TKT00328,2025-01-14 15:00:00,Hyderabad,T070,Slow Internet,Critical,Resolved,2025-01-15 09:00:00
+TKT00329,2025-01-14 16:00:00,Mumbai,T072,Slow Internet,Low,Resolved,2025-01-15 07:00:00
+TKT00330,2025-01-14 17:00:00,Mumbai,T025,High Latency,Critical,In Progress,
+TKT00331,2025-01-14 18:00:00,Delhi,T082,High Latency,Low,Resolved,2025-01-16 10:00:00
+TKT00332,2025-01-14 19:00:00,Mumbai,T089,No Service,Low,Resolved,2025-01-16 03:00:00
+TKT00333,2025-01-14 20:00:00,Pune,T012,No Service,High,Resolved,2025-01-15 05:00:00
+TKT00334,2025-01-14 21:00:00,Hyderabad,T015,Call Drop,Critical,Resolved,2025-01-16 10:00:00
+TKT00335,2025-01-14 22:00:00,Bangalore,T059,No Service,High,Resolved,2025-01-15 08:00:00
+TKT00336,2025-01-14 23:00:00,Mumbai,T026,Call Drop,Low,Resolved,2025-01-15 19:00:00
+TKT00337,2025-01-15 00:00:00,Pune,T026,Network Outage,Medium,Resolved,2025-01-15 06:00:00
+TKT00338,2025-01-15 01:00:00,Bangalore,T047,High Latency,Critical,Resolved,2025-01-17 01:00:00
+TKT00339,2025-01-15 02:00:00,Hyderabad,T032,Network Outage,Medium,Resolved,2025-01-15 05:00:00
+TKT00340,2025-01-15 03:00:00,Bangalore,T010,No Service,Critical,Resolved,2025-01-16 21:00:00
+TKT00341,2025-01-15 04:00:00,Pune,T016,Network Outage,High,Resolved,2025-01-15 15:00:00
+TKT00342,2025-01-15 05:00:00,Bangalore,T071,Network Outage,High,Resolved,2025-01-17 00:00:00
+TKT00343,2025-01-15 06:00:00,Delhi,T017,Network Outage,High,Resolved,2025-01-15 23:00:00
+TKT00344,2025-01-15 07:00:00,Bangalore,T023,No Service,High,Resolved,2025-01-16 15:00:00
+TKT00345,2025-01-15 08:00:00,Mumbai,T026,Network Outage,High,Resolved,2025-01-15 12:00:00
+TKT00346,2025-01-15 09:00:00,Mumbai,T085,Call Drop,Medium,Resolved,2025-01-15 13:00:00
+TKT00347,2025-01-15 10:00:00,Delhi,T086,No Service,High,Resolved,2025-01-16 03:00:00
+TKT00348,2025-01-15 11:00:00,Pune,T007,Network Outage,Low,Resolved,2025-01-17 04:00:00
+TKT00349,2025-01-15 12:00:00,Mumbai,T014,No Service,Low,Resolved,2025-01-16 07:00:00
+TKT00350,2025-01-15 13:00:00,Hyderabad,T079,Slow Internet,Medium,Resolved,2025-01-15 18:00:00
+TKT00351,2025-01-15 14:00:00,Mumbai,T007,Call Drop,Critical,Resolved,2025-01-16 22:00:00
+TKT00352,2025-01-15 15:00:00,Mumbai,T009,Network Outage,Low,In Progress,
+TKT00353,2025-01-15 16:00:00,Pune,T048,Slow Internet,Critical,Resolved,2025-01-16 14:00:00
+TKT00354,2025-01-15 17:00:00,Bangalore,T072,Slow Internet,Medium,Resolved,2025-01-15 23:00:00
+TKT00355,2025-01-15 18:00:00,Mumbai,T059,No Service,Critical,Resolved,2025-01-17 05:00:00
+TKT00356,2025-01-15 19:00:00,Delhi,T087,Slow Internet,Critical,Resolved,2025-01-16 17:00:00
+TKT00357,2025-01-15 20:00:00,Bangalore,T093,Call Drop,Critical,Resolved,2025-01-15 21:00:00
+TKT00358,2025-01-15 21:00:00,Hyderabad,T082,Call Drop,Critical,Resolved,2025-01-16 17:00:00
+TKT00359,2025-01-15 22:00:00,Pune,T095,High Latency,Medium,Resolved,2025-01-16 20:00:00
+TKT00360,2025-01-15 23:00:00,Hyderabad,T094,Call Drop,Low,In Progress,
+TKT00361,2025-01-16 00:00:00,Bangalore,T039,Slow Internet,High,Resolved,2025-01-18 00:00:00
+TKT00362,2025-01-16 01:00:00,Bangalore,T099,Call Drop,Critical,In Progress,
+TKT00363,2025-01-16 02:00:00,Bangalore,T018,No Service,Low,Resolved,2025-01-16 13:00:00
+TKT00364,2025-01-16 03:00:00,Hyderabad,T059,High Latency,Low,Resolved,2025-01-16 16:00:00
+TKT00365,2025-01-16 04:00:00,Bangalore,T017,Slow Internet,Medium,Resolved,2025-01-17 22:00:00
+TKT00366,2025-01-16 05:00:00,Hyderabad,T014,High Latency,Low,Resolved,2025-01-16 08:00:00
+TKT00367,2025-01-16 06:00:00,Bangalore,T031,Slow Internet,Medium,Resolved,2025-01-16 15:00:00
+TKT00368,2025-01-16 07:00:00,Delhi,T024,No Service,Critical,Resolved,2025-01-16 19:00:00
+TKT00369,2025-01-16 08:00:00,Bangalore,T099,High Latency,Critical,Resolved,2025-01-17 07:00:00
+TKT00370,2025-01-16 09:00:00,Hyderabad,T060,Network Outage,High,Resolved,2025-01-16 23:00:00
+TKT00371,2025-01-16 10:00:00,Mumbai,T045,Slow Internet,High,Resolved,2025-01-17 19:00:00
+TKT00372,2025-01-16 11:00:00,Bangalore,T098,Network Outage,High,Open,
+TKT00373,2025-01-16 12:00:00,Mumbai,T003,High Latency,Low,Resolved,2025-01-17 06:00:00
+TKT00374,2025-01-16 13:00:00,Delhi,T037,Network Outage,Critical,Open,
+TKT00375,2025-01-16 14:00:00,Pune,T043,Network Outage,Medium,Open,
+TKT00376,2025-01-16 15:00:00,Delhi,T040,High Latency,High,Open,
+TKT00377,2025-01-16 16:00:00,Bangalore,T090,No Service,Medium,Resolved,2025-01-18 09:00:00
+TKT00378,2025-01-16 17:00:00,Mumbai,T055,Network Outage,Medium,Resolved,2025-01-17 02:00:00
+TKT00379,2025-01-16 18:00:00,Mumbai,T087,Network Outage,High,In Progress,
+TKT00380,2025-01-16 19:00:00,Hyderabad,T039,No Service,Critical,Resolved,2025-01-17 18:00:00
+TKT00381,2025-01-16 20:00:00,Mumbai,T015,Network Outage,High,Resolved,2025-01-17 06:00:00
+TKT00382,2025-01-16 21:00:00,Hyderabad,T004,Network Outage,Medium,Resolved,2025-01-17 16:00:00
+TKT00383,2025-01-16 22:00:00,Pune,T093,Network Outage,High,Resolved,2025-01-18 21:00:00
+TKT00384,2025-01-16 23:00:00,Bangalore,T086,Call Drop,Medium,Resolved,2025-01-17 04:00:00
+TKT00385,2025-01-17 00:00:00,Hyderabad,T025,No Service,Medium,Resolved,2025-01-18 23:00:00
+TKT00386,2025-01-17 01:00:00,Pune,T013,Network Outage,High,Open,
+TKT00387,2025-01-17 02:00:00,Mumbai,T082,No Service,Low,Resolved,2025-01-18 01:00:00
+TKT00388,2025-01-17 03:00:00,Mumbai,T033,Slow Internet,High,In Progress,
+TKT00389,2025-01-17 04:00:00,Pune,T016,Slow Internet,Low,Resolved,2025-01-18 10:00:00
+TKT00390,2025-01-17 05:00:00,Mumbai,T042,Network Outage,Medium,Resolved,2025-01-18 06:00:00
+TKT00391,2025-01-17 06:00:00,Pune,T066,No Service,Medium,Resolved,2025-01-18 10:00:00
+TKT00392,2025-01-17 07:00:00,Hyderabad,T055,No Service,Low,Resolved,2025-01-18 17:00:00
+TKT00393,2025-01-17 08:00:00,Hyderabad,T099,No Service,Medium,In Progress,
+TKT00394,2025-01-17 09:00:00,Pune,T042,Call Drop,Low,Resolved,2025-01-19 06:00:00
+TKT00395,2025-01-17 10:00:00,Hyderabad,T034,Slow Internet,Low,Resolved,2025-01-19 10:00:00
+TKT00396,2025-01-17 11:00:00,Hyderabad,T030,No Service,Medium,Resolved,2025-01-19 10:00:00
+TKT00397,2025-01-17 12:00:00,Hyderabad,T013,No Service,Critical,Resolved,2025-01-18 13:00:00
+TKT00398,2025-01-17 13:00:00,Delhi,T013,Call Drop,Low,Resolved,2025-01-17 23:00:00
+TKT00399,2025-01-17 14:00:00,Bangalore,T018,Call Drop,High,Resolved,2025-01-18 04:00:00
+TKT00400,2025-01-17 15:00:00,Mumbai,T032,No Service,High,Resolved,2025-01-19 09:00:00
+TKT00401,2025-01-17 16:00:00,Delhi,T096,High Latency,Medium,Open,
+TKT00402,2025-01-17 17:00:00,Hyderabad,T099,No Service,Critical,Resolved,2025-01-19 15:00:00
+TKT00403,2025-01-17 18:00:00,Pune,T039,No Service,Medium,Resolved,2025-01-19 00:00:00
+TKT00404,2025-01-17 19:00:00,Hyderabad,T046,Call Drop,Critical,Resolved,2025-01-19 12:00:00
+TKT00405,2025-01-17 20:00:00,Bangalore,T029,Call Drop,Low,Resolved,2025-01-18 21:00:00
+TKT00406,2025-01-17 21:00:00,Hyderabad,T062,No Service,Low,Resolved,2025-01-18 11:00:00
+TKT00407,2025-01-17 22:00:00,Pune,T093,No Service,Low,Resolved,2025-01-19 09:00:00
+TKT00408,2025-01-17 23:00:00,Bangalore,T062,No Service,Low,Resolved,2025-01-19 23:00:00
+TKT00409,2025-01-18 00:00:00,Hyderabad,T057,Call Drop,High,In Progress,
+TKT00410,2025-01-18 01:00:00,Bangalore,T016,No Service,High,Resolved,2025-01-19 11:00:00
+TKT00411,2025-01-18 02:00:00,Mumbai,T056,No Service,Medium,Resolved,2025-01-18 12:00:00
+TKT00412,2025-01-18 03:00:00,Mumbai,T010,Network Outage,Critical,Resolved,2025-01-19 14:00:00
+TKT00413,2025-01-18 04:00:00,Hyderabad,T030,High Latency,Low,Resolved,2025-01-18 15:00:00
+TKT00414,2025-01-18 05:00:00,Bangalore,T025,Slow Internet,Low,Resolved,2025-01-18 16:00:00
+TKT00415,2025-01-18 06:00:00,Pune,T084,High Latency,Critical,Resolved,2025-01-19 03:00:00
+TKT00416,2025-01-18 07:00:00,Hyderabad,T005,Network Outage,Critical,Open,
+TKT00417,2025-01-18 08:00:00,Mumbai,T065,Slow Internet,Medium,In Progress,
+TKT00418,2025-01-18 09:00:00,Mumbai,T094,No Service,Critical,Open,
+TKT00419,2025-01-18 10:00:00,Hyderabad,T049,Network Outage,Low,Resolved,2025-01-19 07:00:00
+TKT00420,2025-01-18 11:00:00,Bangalore,T003,No Service,Low,Resolved,2025-01-19 09:00:00
+TKT00421,2025-01-18 12:00:00,Mumbai,T045,Call Drop,Low,Resolved,2025-01-20 09:00:00
+TKT00422,2025-01-18 13:00:00,Bangalore,T014,Network Outage,Low,Open,
+TKT00423,2025-01-18 14:00:00,Mumbai,T030,Call Drop,Low,Resolved,2025-01-18 21:00:00
+TKT00424,2025-01-18 15:00:00,Mumbai,T068,Network Outage,Medium,Open,
+TKT00425,2025-01-18 16:00:00,Delhi,T018,Network Outage,Low,Resolved,2025-01-19 09:00:00
+TKT00426,2025-01-18 17:00:00,Mumbai,T062,Call Drop,Medium,Resolved,2025-01-18 19:00:00
+TKT00427,2025-01-18 18:00:00,Pune,T037,Slow Internet,Low,Resolved,2025-01-19 06:00:00
+TKT00428,2025-01-18 19:00:00,Hyderabad,T025,High Latency,High,Resolved,2025-01-20 13:00:00
+TKT00429,2025-01-18 20:00:00,Hyderabad,T048,No Service,High,Resolved,2025-01-19 14:00:00
+TKT00430,2025-01-18 21:00:00,Bangalore,T065,Network Outage,High,Resolved,2025-01-19 08:00:00
+TKT00431,2025-01-18 22:00:00,Mumbai,T053,No Service,High,Resolved,2025-01-19 14:00:00
+TKT00432,2025-01-18 23:00:00,Pune,T079,Call Drop,Medium,Resolved,2025-01-19 17:00:00
+TKT00433,2025-01-19 00:00:00,Bangalore,T073,No Service,Medium,Resolved,2025-01-20 11:00:00
+TKT00434,2025-01-19 01:00:00,Delhi,T015,Call Drop,Critical,Resolved,2025-01-20 03:00:00
+TKT00435,2025-01-19 02:00:00,Bangalore,T049,No Service,Low,Resolved,2025-01-19 18:00:00
+TKT00436,2025-01-19 03:00:00,Bangalore,T088,High Latency,High,Resolved,2025-01-19 09:00:00
+TKT00437,2025-01-19 04:00:00,Mumbai,T068,High Latency,Medium,Resolved,2025-01-21 00:00:00
+TKT00438,2025-01-19 05:00:00,Delhi,T012,High Latency,Low,Resolved,2025-01-21 00:00:00
+TKT00439,2025-01-19 06:00:00,Bangalore,T059,High Latency,Low,Resolved,2025-01-21 05:00:00
+TKT00440,2025-01-19 07:00:00,Pune,T037,High Latency,Medium,Resolved,2025-01-21 06:00:00
+TKT00441,2025-01-19 08:00:00,Pune,T061,High Latency,High,Resolved,2025-01-21 08:00:00
+TKT00442,2025-01-19 09:00:00,Hyderabad,T043,Call Drop,Critical,Resolved,2025-01-21 03:00:00
+TKT00443,2025-01-19 10:00:00,Delhi,T070,Network Outage,Low,In Progress,
+TKT00444,2025-01-19 11:00:00,Delhi,T039,No Service,Critical,Resolved,2025-01-19 23:00:00
+TKT00445,2025-01-19 12:00:00,Hyderabad,T056,High Latency,High,Resolved,2025-01-20 01:00:00
+TKT00446,2025-01-19 13:00:00,Bangalore,T063,Call Drop,High,Resolved,2025-01-19 17:00:00
+TKT00447,2025-01-19 14:00:00,Delhi,T046,Call Drop,Critical,In Progress,
+TKT00448,2025-01-19 15:00:00,Pune,T088,Call Drop,High,Resolved,2025-01-21 06:00:00
+TKT00449,2025-01-19 16:00:00,Pune,T011,Network Outage,Low,Resolved,2025-01-19 18:00:00
+TKT00450,2025-01-19 17:00:00,Mumbai,T062,No Service,Critical,Open,
+TKT00451,2025-01-19 18:00:00,Delhi,T077,Network Outage,High,Resolved,2025-01-20 20:00:00
+TKT00452,2025-01-19 19:00:00,Bangalore,T098,Slow Internet,Critical,Open,
+TKT00453,2025-01-19 20:00:00,Hyderabad,T025,Call Drop,Low,Resolved,2025-01-20 23:00:00
+TKT00454,2025-01-19 21:00:00,Hyderabad,T071,Slow Internet,High,In Progress,
+TKT00455,2025-01-19 22:00:00,Bangalore,T052,High Latency,Low,Resolved,2025-01-21 01:00:00
+TKT00456,2025-01-19 23:00:00,Mumbai,T004,High Latency,High,Resolved,2025-01-20 14:00:00
+TKT00457,2025-01-20 00:00:00,Hyderabad,T059,Network Outage,Medium,Resolved,2025-01-20 08:00:00
+TKT00458,2025-01-20 01:00:00,Delhi,T072,No Service,High,Resolved,2025-01-20 08:00:00
+TKT00459,2025-01-20 02:00:00,Mumbai,T020,Slow Internet,Critical,Resolved,2025-01-22 01:00:00
+TKT00460,2025-01-20 03:00:00,Delhi,T093,No Service,High,Open,
+TKT00461,2025-01-20 04:00:00,Pune,T063,Network Outage,Low,Open,
+TKT00462,2025-01-20 05:00:00,Mumbai,T054,High Latency,Low,Resolved,2025-01-22 03:00:00
+TKT00463,2025-01-20 06:00:00,Hyderabad,T074,No Service,High,Open,
+TKT00464,2025-01-20 07:00:00,Mumbai,T098,No Service,Critical,Resolved,2025-01-21 23:00:00
+TKT00465,2025-01-20 08:00:00,Mumbai,T057,High Latency,Medium,Resolved,2025-01-20 20:00:00
+TKT00466,2025-01-20 09:00:00,Mumbai,T090,Slow Internet,Critical,Resolved,2025-01-20 22:00:00
+TKT00467,2025-01-20 10:00:00,Mumbai,T041,High Latency,Medium,Resolved,2025-01-22 05:00:00
+TKT00468,2025-01-20 11:00:00,Delhi,T003,No Service,Low,Resolved,2025-01-21 04:00:00
+TKT00469,2025-01-20 12:00:00,Pune,T006,Slow Internet,Critical,Resolved,2025-01-21 05:00:00
+TKT00470,2025-01-20 13:00:00,Bangalore,T005,Slow Internet,Medium,In Progress,
+TKT00471,2025-01-20 14:00:00,Mumbai,T005,High Latency,High,Resolved,2025-01-22 02:00:00
+TKT00472,2025-01-20 15:00:00,Hyderabad,T054,No Service,Low,Open,
+TKT00473,2025-01-20 16:00:00,Mumbai,T047,Network Outage,High,Resolved,2025-01-21 13:00:00
+TKT00474,2025-01-20 17:00:00,Hyderabad,T087,No Service,Low,Resolved,2025-01-21 01:00:00
+TKT00475,2025-01-20 18:00:00,Delhi,T049,Call Drop,Critical,Resolved,2025-01-20 23:00:00
+TKT00476,2025-01-20 19:00:00,Hyderabad,T009,Network Outage,Critical,Open,
+TKT00477,2025-01-20 20:00:00,Bangalore,T099,Slow Internet,Low,Resolved,2025-01-21 22:00:00
+TKT00478,2025-01-20 21:00:00,Pune,T020,Network Outage,Low,Resolved,2025-01-21 13:00:00
+TKT00479,2025-01-20 22:00:00,Hyderabad,T061,Slow Internet,Low,Resolved,2025-01-22 10:00:00
+TKT00480,2025-01-20 23:00:00,Hyderabad,T035,Slow Internet,Critical,Resolved,2025-01-22 03:00:00
+TKT00481,2025-01-21 00:00:00,Pune,T050,Network Outage,Medium,Resolved,2025-01-22 05:00:00
+TKT00482,2025-01-21 01:00:00,Bangalore,T082,Slow Internet,High,Resolved,2025-01-23 00:00:00
+TKT00483,2025-01-21 02:00:00,Mumbai,T062,Slow Internet,High,Resolved,2025-01-21 14:00:00
+TKT00484,2025-01-21 03:00:00,Hyderabad,T017,Call Drop,Critical,Resolved,2025-01-22 16:00:00
+TKT00485,2025-01-21 04:00:00,Pune,T088,No Service,High,Resolved,2025-01-22 10:00:00
+TKT00486,2025-01-21 05:00:00,Delhi,T003,No Service,Low,Resolved,2025-01-22 04:00:00
+TKT00487,2025-01-21 06:00:00,Pune,T032,Call Drop,Medium,Resolved,2025-01-21 22:00:00
+TKT00488,2025-01-21 07:00:00,Delhi,T099,Network Outage,High,Resolved,2025-01-21 21:00:00
+TKT00489,2025-01-21 08:00:00,Bangalore,T013,High Latency,Medium,Open,
+TKT00490,2025-01-21 09:00:00,Mumbai,T089,High Latency,Low,Resolved,2025-01-21 19:00:00
+TKT00491,2025-01-21 10:00:00,Pune,T073,High Latency,High,Resolved,2025-01-21 17:00:00
+TKT00492,2025-01-21 11:00:00,Hyderabad,T068,Call Drop,Critical,Resolved,2025-01-23 08:00:00
+TKT00493,2025-01-21 12:00:00,Bangalore,T014,Call Drop,Medium,Resolved,2025-01-23 01:00:00
+TKT00494,2025-01-21 13:00:00,Pune,T098,Slow Internet,Low,Resolved,2025-01-22 18:00:00
+TKT00495,2025-01-21 14:00:00,Hyderabad,T011,High Latency,Medium,Resolved,2025-01-21 17:00:00
+TKT00496,2025-01-21 15:00:00,Pune,T056,Network Outage,High,Resolved,2025-01-22 06:00:00
+TKT00497,2025-01-21 16:00:00,Delhi,T067,Network Outage,High,Open,
+TKT00498,2025-01-21 17:00:00,Pune,T092,High Latency,Critical,Resolved,2025-01-23 05:00:00
+TKT00499,2025-01-21 18:00:00,Pune,T029,High Latency,Low,Resolved,2025-01-23 17:00:00
+TKT00500,2025-01-21 19:00:00,Pune,T009,High Latency,Low,Resolved,2025-01-23 17:00:00
+TKT00501,2025-01-21 20:00:00,Bangalore,T067,Call Drop,Critical,Resolved,2025-01-22 15:00:00
+TKT00502,2025-01-21 21:00:00,Pune,T025,Call Drop,Critical,Resolved,2025-01-22 10:00:00
+TKT00503,2025-01-21 22:00:00,Hyderabad,T098,Call Drop,Low,Resolved,2025-01-23 16:00:00
+TKT00504,2025-01-21 23:00:00,Delhi,T076,No Service,Medium,Resolved,2025-01-22 20:00:00
+TKT00505,2025-01-22 00:00:00,Delhi,T042,Network Outage,Medium,Resolved,2025-01-23 13:00:00
+TKT00506,2025-01-22 01:00:00,Pune,T009,Network Outage,Critical,Resolved,2025-01-23 04:00:00
+TKT00507,2025-01-22 02:00:00,Bangalore,T079,Slow Internet,Medium,Resolved,2025-01-23 07:00:00
+TKT00508,2025-01-22 03:00:00,Bangalore,T040,Call Drop,Low,Resolved,2025-01-22 23:00:00
+TKT00509,2025-01-22 04:00:00,Hyderabad,T025,No Service,High,Resolved,2025-01-23 05:00:00
+TKT00510,2025-01-22 05:00:00,Pune,T005,No Service,High,In Progress,
+TKT00511,2025-01-22 06:00:00,Delhi,T011,Network Outage,Medium,Resolved,2025-01-22 12:00:00
+TKT00512,2025-01-22 07:00:00,Bangalore,T059,Call Drop,Critical,Resolved,2025-01-23 19:00:00
+TKT00513,2025-01-22 08:00:00,Pune,T098,Slow Internet,Critical,Open,
+TKT00514,2025-01-22 09:00:00,Bangalore,T088,Call Drop,Critical,Resolved,2025-01-22 11:00:00
+TKT00515,2025-01-22 10:00:00,Bangalore,T079,High Latency,Critical,Resolved,2025-01-23 08:00:00
+TKT00516,2025-01-22 11:00:00,Delhi,T038,Call Drop,Critical,Resolved,2025-01-23 19:00:00
+TKT00517,2025-01-22 12:00:00,Mumbai,T072,High Latency,Medium,Resolved,2025-01-23 04:00:00
+TKT00518,2025-01-22 13:00:00,Hyderabad,T005,High Latency,High,Resolved,2025-01-23 07:00:00
+TKT00519,2025-01-22 14:00:00,Hyderabad,T048,Slow Internet,High,Resolved,2025-01-22 19:00:00
+TKT00520,2025-01-22 15:00:00,Delhi,T090,Network Outage,Medium,Resolved,2025-01-24 03:00:00
+TKT00521,2025-01-22 16:00:00,Bangalore,T018,Call Drop,Critical,Resolved,2025-01-23 22:00:00
+TKT00522,2025-01-22 17:00:00,Pune,T070,High Latency,Medium,In Progress,
+TKT00523,2025-01-22 18:00:00,Bangalore,T037,Call Drop,High,Resolved,2025-01-24 15:00:00
+TKT00524,2025-01-22 19:00:00,Delhi,T060,Network Outage,Low,Resolved,2025-01-23 14:00:00
+TKT00525,2025-01-22 20:00:00,Hyderabad,T048,Network Outage,Medium,In Progress,
+TKT00526,2025-01-22 21:00:00,Bangalore,T077,No Service,Critical,Resolved,2025-01-23 20:00:00
+TKT00527,2025-01-22 22:00:00,Hyderabad,T028,Network Outage,High,In Progress,
+TKT00528,2025-01-22 23:00:00,Pune,T069,Slow Internet,High,Resolved,2025-01-24 09:00:00
+TKT00529,2025-01-23 00:00:00,Hyderabad,T077,High Latency,High,Resolved,2025-01-23 13:00:00
+TKT00530,2025-01-23 01:00:00,Hyderabad,T081,No Service,High,Resolved,2025-01-24 20:00:00
+TKT00531,2025-01-23 02:00:00,Mumbai,T040,Slow Internet,Critical,Resolved,2025-01-24 07:00:00
+TKT00532,2025-01-23 03:00:00,Mumbai,T045,Call Drop,Low,Resolved,2025-01-24 15:00:00
+TKT00533,2025-01-23 04:00:00,Mumbai,T096,High Latency,High,In Progress,
+TKT00534,2025-01-23 05:00:00,Hyderabad,T062,Network Outage,Medium,Resolved,2025-01-24 03:00:00
+TKT00535,2025-01-23 06:00:00,Delhi,T093,High Latency,Low,Resolved,2025-01-25 05:00:00
+TKT00536,2025-01-23 07:00:00,Hyderabad,T058,Call Drop,High,Open,
+TKT00537,2025-01-23 08:00:00,Delhi,T067,No Service,Low,Resolved,2025-01-24 20:00:00
+TKT00538,2025-01-23 09:00:00,Delhi,T056,No Service,Medium,Resolved,2025-01-23 18:00:00
+TKT00539,2025-01-23 10:00:00,Mumbai,T040,No Service,High,Open,
+TKT00540,2025-01-23 11:00:00,Bangalore,T098,Network Outage,Medium,Resolved,2025-01-25 02:00:00
+TKT00541,2025-01-23 12:00:00,Pune,T040,Slow Internet,Critical,Resolved,2025-01-24 07:00:00
+TKT00542,2025-01-23 13:00:00,Mumbai,T091,Slow Internet,High,Open,
+TKT00543,2025-01-23 14:00:00,Mumbai,T077,High Latency,High,Resolved,2025-01-25 04:00:00
+TKT00544,2025-01-23 15:00:00,Bangalore,T033,Network Outage,High,Resolved,2025-01-23 21:00:00
+TKT00545,2025-01-23 16:00:00,Pune,T006,No Service,High,Resolved,2025-01-25 15:00:00
+TKT00546,2025-01-23 17:00:00,Hyderabad,T088,No Service,Critical,Resolved,2025-01-24 08:00:00
+TKT00547,2025-01-23 18:00:00,Hyderabad,T019,Call Drop,High,Open,
+TKT00548,2025-01-23 19:00:00,Mumbai,T080,Call Drop,Low,Resolved,2025-01-24 15:00:00
+TKT00549,2025-01-23 20:00:00,Pune,T040,No Service,High,Resolved,2025-01-24 05:00:00
+TKT00550,2025-01-23 21:00:00,Mumbai,T092,No Service,Critical,Resolved,2025-01-25 05:00:00
+TKT00551,2025-01-23 22:00:00,Delhi,T097,Network Outage,High,Resolved,2025-01-24 02:00:00
+TKT00552,2025-01-23 23:00:00,Mumbai,T059,Slow Internet,Low,Resolved,2025-01-24 17:00:00
+TKT00553,2025-01-24 00:00:00,Mumbai,T059,Call Drop,Critical,Open,
+TKT00554,2025-01-24 01:00:00,Hyderabad,T048,Slow Internet,Critical,Resolved,2025-01-24 06:00:00
+TKT00555,2025-01-24 02:00:00,Hyderabad,T041,Network Outage,Low,Resolved,2025-01-24 22:00:00
+TKT00556,2025-01-24 03:00:00,Hyderabad,T013,No Service,Low,Resolved,2025-01-25 02:00:00
+TKT00557,2025-01-24 04:00:00,Delhi,T045,Slow Internet,Low,Resolved,2025-01-24 15:00:00
+TKT00558,2025-01-24 05:00:00,Hyderabad,T089,No Service,Low,Resolved,2025-01-25 18:00:00
+TKT00559,2025-01-24 06:00:00,Pune,T053,No Service,Low,Resolved,2025-01-25 04:00:00
+TKT00560,2025-01-24 07:00:00,Bangalore,T042,High Latency,Critical,Resolved,2025-01-24 11:00:00
+TKT00561,2025-01-24 08:00:00,Pune,T100,Slow Internet,Critical,Resolved,2025-01-25 13:00:00
+TKT00562,2025-01-24 09:00:00,Pune,T063,Slow Internet,High,Resolved,2025-01-26 05:00:00
+TKT00563,2025-01-24 10:00:00,Hyderabad,T027,No Service,High,Resolved,2025-01-25 20:00:00
+TKT00564,2025-01-24 11:00:00,Bangalore,T038,Network Outage,Medium,Resolved,2025-01-25 00:00:00
+TKT00565,2025-01-24 12:00:00,Bangalore,T060,High Latency,High,Resolved,2025-01-26 06:00:00
+TKT00566,2025-01-24 13:00:00,Bangalore,T007,No Service,High,Open,
+TKT00567,2025-01-24 14:00:00,Delhi,T005,Call Drop,Low,Resolved,2025-01-24 23:00:00
+TKT00568,2025-01-24 15:00:00,Hyderabad,T045,Call Drop,Low,In Progress,
+TKT00569,2025-01-24 16:00:00,Bangalore,T058,High Latency,High,Resolved,2025-01-26 10:00:00
+TKT00570,2025-01-24 17:00:00,Delhi,T031,Network Outage,Medium,Resolved,2025-01-26 00:00:00
+TKT00571,2025-01-24 18:00:00,Mumbai,T023,No Service,Low,In Progress,
+TKT00572,2025-01-24 19:00:00,Mumbai,T042,Slow Internet,High,Resolved,2025-01-25 02:00:00
+TKT00573,2025-01-24 20:00:00,Delhi,T010,High Latency,High,In Progress,
+TKT00574,2025-01-24 21:00:00,Delhi,T032,Network Outage,Critical,Resolved,2025-01-25 01:00:00
+TKT00575,2025-01-24 22:00:00,Hyderabad,T053,Slow Internet,Medium,Resolved,2025-01-25 17:00:00
+TKT00576,2025-01-24 23:00:00,Hyderabad,T030,Call Drop,Critical,Resolved,2025-01-26 17:00:00
+TKT00577,2025-01-25 00:00:00,Mumbai,T039,Call Drop,Medium,Resolved,2025-01-26 06:00:00
+TKT00578,2025-01-25 01:00:00,Bangalore,T031,Slow Internet,Low,Resolved,2025-01-26 08:00:00
+TKT00579,2025-01-25 02:00:00,Mumbai,T082,High Latency,Medium,Resolved,2025-01-26 13:00:00
+TKT00580,2025-01-25 03:00:00,Bangalore,T100,Call Drop,High,Resolved,2025-01-26 00:00:00
+TKT00581,2025-01-25 04:00:00,Bangalore,T002,No Service,High,Resolved,2025-01-26 11:00:00
+TKT00582,2025-01-25 05:00:00,Hyderabad,T078,Slow Internet,Medium,Resolved,2025-01-26 00:00:00
+TKT00583,2025-01-25 06:00:00,Pune,T077,Slow Internet,Medium,Resolved,2025-01-26 13:00:00
+TKT00584,2025-01-25 07:00:00,Pune,T093,Call Drop,Medium,In Progress,
+TKT00585,2025-01-25 08:00:00,Delhi,T012,High Latency,Critical,Resolved,2025-01-26 16:00:00
+TKT00586,2025-01-25 09:00:00,Hyderabad,T039,No Service,Medium,Open,
+TKT00587,2025-01-25 10:00:00,Bangalore,T066,High Latency,Low,Open,
+TKT00588,2025-01-25 11:00:00,Pune,T096,Network Outage,Critical,Resolved,2025-01-25 13:00:00
+TKT00589,2025-01-25 12:00:00,Bangalore,T013,Network Outage,Critical,Resolved,2025-01-25 22:00:00
+TKT00590,2025-01-25 13:00:00,Pune,T046,Call Drop,Medium,Resolved,2025-01-25 15:00:00
+TKT00591,2025-01-25 14:00:00,Pune,T027,Call Drop,Low,Resolved,2025-01-25 16:00:00
+TKT00592,2025-01-25 15:00:00,Pune,T017,Call Drop,Critical,Resolved,2025-01-26 15:00:00
+TKT00593,2025-01-25 16:00:00,Hyderabad,T095,Network Outage,High,Resolved,2025-01-26 09:00:00
+TKT00594,2025-01-25 17:00:00,Mumbai,T098,High Latency,Critical,Resolved,2025-01-27 01:00:00
+TKT00595,2025-01-25 18:00:00,Bangalore,T060,High Latency,Medium,Resolved,2025-01-26 10:00:00
+TKT00596,2025-01-25 19:00:00,Hyderabad,T064,Call Drop,Low,Resolved,2025-01-26 11:00:00
+TKT00597,2025-01-25 20:00:00,Hyderabad,T088,No Service,Medium,Resolved,2025-01-27 18:00:00
+TKT00598,2025-01-25 21:00:00,Hyderabad,T035,High Latency,High,Resolved,2025-01-27 12:00:00
+TKT00599,2025-01-25 22:00:00,Hyderabad,T070,Network Outage,High,Resolved,2025-01-27 05:00:00
+TKT00600,2025-01-25 23:00:00,Hyderabad,T083,Slow Internet,High,Resolved,2025-01-27 18:00:00
+TKT00601,2025-01-26 00:00:00,Delhi,T030,Slow Internet,Medium,Resolved,2025-01-27 00:00:00
+TKT00602,2025-01-26 01:00:00,Bangalore,T071,Slow Internet,Critical,Resolved,2025-01-26 02:00:00
+TKT00603,2025-01-26 02:00:00,Hyderabad,T074,No Service,Medium,Resolved,2025-01-26 13:00:00
+TKT00604,2025-01-26 03:00:00,Bangalore,T096,Call Drop,Low,Resolved,2025-01-27 00:00:00
+TKT00605,2025-01-26 04:00:00,Delhi,T098,Network Outage,Critical,Resolved,2025-01-26 08:00:00
+TKT00606,2025-01-26 05:00:00,Delhi,T063,No Service,High,Resolved,2025-01-26 12:00:00
+TKT00607,2025-01-26 06:00:00,Bangalore,T028,Network Outage,Medium,Resolved,2025-01-27 08:00:00
+TKT00608,2025-01-26 07:00:00,Pune,T060,Network Outage,High,Resolved,2025-01-28 06:00:00
+TKT00609,2025-01-26 08:00:00,Mumbai,T079,Call Drop,High,Resolved,2025-01-26 20:00:00
+TKT00610,2025-01-26 09:00:00,Pune,T094,Slow Internet,Low,Resolved,2025-01-27 16:00:00
+TKT00611,2025-01-26 10:00:00,Pune,T037,Call Drop,Critical,Resolved,2025-01-27 03:00:00
+TKT00612,2025-01-26 11:00:00,Pune,T093,No Service,Low,Open,
+TKT00613,2025-01-26 12:00:00,Hyderabad,T022,No Service,Low,Resolved,2025-01-27 21:00:00
+TKT00614,2025-01-26 13:00:00,Delhi,T068,No Service,Low,Resolved,2025-01-27 00:00:00
+TKT00615,2025-01-26 14:00:00,Pune,T020,Call Drop,High,Resolved,2025-01-27 18:00:00
+TKT00616,2025-01-26 15:00:00,Delhi,T096,Network Outage,Low,Resolved,2025-01-27 23:00:00
+TKT00617,2025-01-26 16:00:00,Bangalore,T100,Network Outage,Low,Resolved,2025-01-26 17:00:00
+TKT00618,2025-01-26 17:00:00,Mumbai,T068,High Latency,Critical,Resolved,2025-01-28 16:00:00
+TKT00619,2025-01-26 18:00:00,Bangalore,T091,No Service,Critical,Resolved,2025-01-27 22:00:00
+TKT00620,2025-01-26 19:00:00,Bangalore,T064,Network Outage,Low,Resolved,2025-01-28 13:00:00
+TKT00621,2025-01-26 20:00:00,Hyderabad,T017,High Latency,Critical,Resolved,2025-01-27 03:00:00
+TKT00622,2025-01-26 21:00:00,Mumbai,T012,Network Outage,Critical,Open,
+TKT00623,2025-01-26 22:00:00,Bangalore,T022,No Service,Low,Open,
+TKT00624,2025-01-26 23:00:00,Bangalore,T017,Slow Internet,High,Resolved,2025-01-27 01:00:00
+TKT00625,2025-01-27 00:00:00,Mumbai,T010,No Service,Low,Resolved,2025-01-28 18:00:00
+TKT00626,2025-01-27 01:00:00,Mumbai,T065,Call Drop,Critical,Resolved,2025-01-28 01:00:00
+TKT00627,2025-01-27 02:00:00,Bangalore,T022,Network Outage,High,Resolved,2025-01-27 06:00:00
+TKT00628,2025-01-27 03:00:00,Mumbai,T090,Network Outage,Medium,Resolved,2025-01-28 23:00:00
+TKT00629,2025-01-27 04:00:00,Bangalore,T082,Call Drop,High,Resolved,2025-01-27 23:00:00
+TKT00630,2025-01-27 05:00:00,Bangalore,T050,Call Drop,Critical,Resolved,2025-01-28 07:00:00
+TKT00631,2025-01-27 06:00:00,Hyderabad,T014,Slow Internet,High,In Progress,
+TKT00632,2025-01-27 07:00:00,Pune,T064,Network Outage,Low,Resolved,2025-01-27 18:00:00
+TKT00633,2025-01-27 08:00:00,Bangalore,T047,Network Outage,Medium,Resolved,2025-01-29 00:00:00
+TKT00634,2025-01-27 09:00:00,Delhi,T029,Slow Internet,Medium,Resolved,2025-01-29 04:00:00
+TKT00635,2025-01-27 10:00:00,Pune,T076,High Latency,Medium,Resolved,2025-01-27 21:00:00
+TKT00636,2025-01-27 11:00:00,Pune,T036,Slow Internet,Critical,Resolved,2025-01-29 08:00:00
+TKT00637,2025-01-27 12:00:00,Pune,T099,No Service,Critical,Resolved,2025-01-27 15:00:00
+TKT00638,2025-01-27 13:00:00,Hyderabad,T052,Network Outage,Medium,Resolved,2025-01-28 01:00:00
+TKT00639,2025-01-27 14:00:00,Bangalore,T076,Call Drop,High,Open,
+TKT00640,2025-01-27 15:00:00,Hyderabad,T007,No Service,Medium,Resolved,2025-01-27 18:00:00
+TKT00641,2025-01-27 16:00:00,Bangalore,T029,Network Outage,High,Resolved,2025-01-29 10:00:00
+TKT00642,2025-01-27 17:00:00,Hyderabad,T011,Slow Internet,High,Resolved,2025-01-28 20:00:00
+TKT00643,2025-01-27 18:00:00,Hyderabad,T033,No Service,Critical,Open,
+TKT00644,2025-01-27 19:00:00,Delhi,T006,Network Outage,High,Resolved,2025-01-27 21:00:00
+TKT00645,2025-01-27 20:00:00,Hyderabad,T079,High Latency,Medium,Resolved,2025-01-28 12:00:00
+TKT00646,2025-01-27 21:00:00,Mumbai,T032,High Latency,Critical,Open,
+TKT00647,2025-01-27 22:00:00,Delhi,T051,Call Drop,Low,Resolved,2025-01-28 00:00:00
+TKT00648,2025-01-27 23:00:00,Hyderabad,T075,Network Outage,Low,In Progress,
+TKT00649,2025-01-28 00:00:00,Pune,T058,High Latency,Critical,Resolved,2025-01-29 06:00:00
+TKT00650,2025-01-28 01:00:00,Mumbai,T087,Slow Internet,Medium,Resolved,2025-01-28 21:00:00
+TKT00651,2025-01-28 02:00:00,Mumbai,T026,Network Outage,Low,Resolved,2025-01-29 16:00:00
+TKT00652,2025-01-28 03:00:00,Mumbai,T098,Slow Internet,Low,Resolved,2025-01-29 07:00:00
+TKT00653,2025-01-28 04:00:00,Delhi,T046,Slow Internet,High,Resolved,2025-01-29 05:00:00
+TKT00654,2025-01-28 05:00:00,Hyderabad,T098,High Latency,High,Resolved,2025-01-29 13:00:00
+TKT00655,2025-01-28 06:00:00,Hyderabad,T029,Network Outage,Medium,Resolved,2025-01-28 16:00:00
+TKT00656,2025-01-28 07:00:00,Pune,T004,No Service,Critical,Resolved,2025-01-30 01:00:00
+TKT00657,2025-01-28 08:00:00,Pune,T081,High Latency,Medium,Open,
+TKT00658,2025-01-28 09:00:00,Mumbai,T099,High Latency,Critical,Open,
+TKT00659,2025-01-28 10:00:00,Pune,T013,Network Outage,Low,Resolved,2025-01-30 02:00:00
+TKT00660,2025-01-28 11:00:00,Delhi,T039,Network Outage,High,Open,
+TKT00661,2025-01-28 12:00:00,Hyderabad,T015,Slow Internet,Medium,Resolved,2025-01-29 21:00:00
+TKT00662,2025-01-28 13:00:00,Mumbai,T029,Network Outage,Medium,Resolved,2025-01-29 02:00:00
+TKT00663,2025-01-28 14:00:00,Pune,T029,Slow Internet,Critical,Resolved,2025-01-30 07:00:00
+TKT00664,2025-01-28 15:00:00,Delhi,T075,High Latency,Critical,Resolved,2025-01-30 09:00:00
+TKT00665,2025-01-28 16:00:00,Delhi,T032,Call Drop,Medium,Resolved,2025-01-30 15:00:00
+TKT00666,2025-01-28 17:00:00,Pune,T002,No Service,Critical,Resolved,2025-01-30 06:00:00
+TKT00667,2025-01-28 18:00:00,Hyderabad,T047,High Latency,Medium,Resolved,2025-01-29 10:00:00
+TKT00668,2025-01-28 19:00:00,Pune,T078,Network Outage,Medium,Resolved,2025-01-30 16:00:00
+TKT00669,2025-01-28 20:00:00,Mumbai,T084,No Service,Medium,Resolved,2025-01-29 18:00:00
+TKT00670,2025-01-28 21:00:00,Pune,T022,Call Drop,Low,Open,
+TKT00671,2025-01-28 22:00:00,Delhi,T075,Call Drop,Critical,Resolved,2025-01-29 18:00:00
+TKT00672,2025-01-28 23:00:00,Pune,T027,Slow Internet,High,In Progress,
+TKT00673,2025-01-29 00:00:00,Hyderabad,T067,No Service,High,Open,
+TKT00674,2025-01-29 01:00:00,Bangalore,T081,Slow Internet,Critical,In Progress,
+TKT00675,2025-01-29 02:00:00,Pune,T056,High Latency,Medium,In Progress,
+TKT00676,2025-01-29 03:00:00,Hyderabad,T092,No Service,High,Open,
+TKT00677,2025-01-29 04:00:00,Hyderabad,T093,High Latency,High,Resolved,2025-01-30 23:00:00
+TKT00678,2025-01-29 05:00:00,Delhi,T021,Slow Internet,Critical,Resolved,2025-01-30 08:00:00
+TKT00679,2025-01-29 06:00:00,Hyderabad,T047,No Service,High,Resolved,2025-01-30 23:00:00
+TKT00680,2025-01-29 07:00:00,Hyderabad,T080,Slow Internet,Medium,Resolved,2025-01-29 23:00:00
+TKT00681,2025-01-29 08:00:00,Hyderabad,T059,No Service,Critical,Resolved,2025-01-30 18:00:00
+TKT00682,2025-01-29 09:00:00,Hyderabad,T084,Slow Internet,Medium,Resolved,2025-01-30 17:00:00
+TKT00683,2025-01-29 10:00:00,Mumbai,T006,Call Drop,High,In Progress,
+TKT00684,2025-01-29 11:00:00,Mumbai,T019,Slow Internet,High,Open,
+TKT00685,2025-01-29 12:00:00,Delhi,T057,Call Drop,Medium,Open,
+TKT00686,2025-01-29 13:00:00,Pune,T069,Slow Internet,Low,Resolved,2025-01-30 15:00:00
+TKT00687,2025-01-29 14:00:00,Hyderabad,T003,No Service,High,Resolved,2025-01-30 15:00:00
+TKT00688,2025-01-29 15:00:00,Pune,T001,No Service,Low,Resolved,2025-01-29 17:00:00
+TKT00689,2025-01-29 16:00:00,Pune,T058,No Service,High,Resolved,2025-01-30 04:00:00
+TKT00690,2025-01-29 17:00:00,Delhi,T038,Network Outage,Low,Resolved,2025-01-31 09:00:00
+TKT00691,2025-01-29 18:00:00,Hyderabad,T015,High Latency,Low,Resolved,2025-01-30 03:00:00
+TKT00692,2025-01-29 19:00:00,Hyderabad,T034,No Service,Low,In Progress,
+TKT00693,2025-01-29 20:00:00,Bangalore,T061,Call Drop,Medium,Resolved,2025-01-30 08:00:00
+TKT00694,2025-01-29 21:00:00,Pune,T035,No Service,Low,Resolved,2025-01-30 23:00:00
+TKT00695,2025-01-29 22:00:00,Pune,T064,Network Outage,Low,Resolved,2025-01-30 07:00:00
+TKT00696,2025-01-29 23:00:00,Mumbai,T025,Call Drop,Low,Resolved,2025-01-30 09:00:00
+TKT00697,2025-01-30 00:00:00,Bangalore,T024,Network Outage,High,Resolved,2025-01-31 08:00:00
+TKT00698,2025-01-30 01:00:00,Mumbai,T012,Call Drop,Low,In Progress,
+TKT00699,2025-01-30 02:00:00,Mumbai,T018,Slow Internet,High,Resolved,2025-01-31 12:00:00
+TKT00700,2025-01-30 03:00:00,Mumbai,T015,High Latency,Low,Resolved,2025-02-01 03:00:00
+TKT00701,2025-01-30 04:00:00,Delhi,T080,High Latency,Low,Resolved,2025-01-31 00:00:00
+TKT00702,2025-01-30 05:00:00,Delhi,T027,Network Outage,Medium,Resolved,2025-01-31 20:00:00
+TKT00703,2025-01-30 06:00:00,Mumbai,T072,High Latency,High,Resolved,2025-01-30 08:00:00
+TKT00704,2025-01-30 07:00:00,Bangalore,T060,Network Outage,Low,Resolved,2025-01-30 08:00:00
+TKT00705,2025-01-30 08:00:00,Pune,T046,Network Outage,High,Resolved,2025-01-31 20:00:00
+TKT00706,2025-01-30 09:00:00,Bangalore,T089,Network Outage,High,Resolved,2025-01-31 09:00:00
+TKT00707,2025-01-30 10:00:00,Hyderabad,T017,High Latency,Critical,Resolved,2025-01-31 13:00:00
+TKT00708,2025-01-30 11:00:00,Delhi,T093,Network Outage,Medium,Resolved,2025-01-30 13:00:00
+TKT00709,2025-01-30 12:00:00,Pune,T053,High Latency,Medium,Open,
+TKT00710,2025-01-30 13:00:00,Pune,T008,Network Outage,Medium,Resolved,2025-01-31 20:00:00
+TKT00711,2025-01-30 14:00:00,Hyderabad,T079,No Service,Critical,Resolved,2025-01-31 04:00:00
+TKT00712,2025-01-30 15:00:00,Hyderabad,T027,Network Outage,Critical,Resolved,2025-01-30 17:00:00
+TKT00713,2025-01-30 16:00:00,Mumbai,T046,Call Drop,Medium,Resolved,2025-01-31 21:00:00
+TKT00714,2025-01-30 17:00:00,Delhi,T050,Network Outage,Critical,Resolved,2025-01-31 08:00:00
+TKT00715,2025-01-30 18:00:00,Delhi,T071,Slow Internet,Critical,Resolved,2025-01-31 06:00:00
+TKT00716,2025-01-30 19:00:00,Bangalore,T003,Network Outage,Critical,Resolved,2025-02-01 08:00:00
+TKT00717,2025-01-30 20:00:00,Mumbai,T093,Call Drop,Medium,Open,
+TKT00718,2025-01-30 21:00:00,Mumbai,T064,Call Drop,Medium,Resolved,2025-02-01 01:00:00
+TKT00719,2025-01-30 22:00:00,Mumbai,T044,High Latency,Medium,In Progress,
+TKT00720,2025-01-30 23:00:00,Mumbai,T053,No Service,Critical,Resolved,2025-01-31 19:00:00
+TKT00721,2025-01-31 00:00:00,Delhi,T024,Network Outage,Medium,In Progress,
+TKT00722,2025-01-31 01:00:00,Delhi,T060,High Latency,Critical,Open,
+TKT00723,2025-01-31 02:00:00,Mumbai,T003,No Service,Low,Resolved,2025-02-01 17:00:00
+TKT00724,2025-01-31 03:00:00,Bangalore,T020,Network Outage,Critical,Open,
+TKT00725,2025-01-31 04:00:00,Pune,T046,Slow Internet,High,Resolved,2025-02-01 04:00:00
+TKT00726,2025-01-31 05:00:00,Pune,T015,Network Outage,Medium,In Progress,
+TKT00727,2025-01-31 06:00:00,Bangalore,T025,Call Drop,Medium,Resolved,2025-02-01 03:00:00
+TKT00728,2025-01-31 07:00:00,Mumbai,T094,Call Drop,High,Resolved,2025-01-31 17:00:00
+TKT00729,2025-01-31 08:00:00,Delhi,T078,Slow Internet,Critical,Resolved,2025-02-02 06:00:00
+TKT00730,2025-01-31 09:00:00,Pune,T071,High Latency,Low,In Progress,
+TKT00731,2025-01-31 10:00:00,Hyderabad,T017,No Service,High,Resolved,2025-02-01 00:00:00
+TKT00732,2025-01-31 11:00:00,Hyderabad,T084,Network Outage,High,Resolved,2025-02-02 00:00:00
+TKT00733,2025-01-31 12:00:00,Bangalore,T100,Call Drop,Critical,Resolved,2025-02-01 06:00:00
+TKT00734,2025-01-31 13:00:00,Mumbai,T009,High Latency,Medium,Open,
+TKT00735,2025-01-31 14:00:00,Pune,T038,Slow Internet,Critical,Resolved,2025-02-01 14:00:00
+TKT00736,2025-01-31 15:00:00,Mumbai,T048,Call Drop,High,Resolved,2025-02-01 05:00:00
+TKT00737,2025-01-31 16:00:00,Pune,T060,Slow Internet,High,Resolved,2025-02-02 02:00:00
+TKT00738,2025-01-31 17:00:00,Bangalore,T063,Network Outage,Medium,Resolved,2025-02-01 05:00:00
+TKT00739,2025-01-31 18:00:00,Bangalore,T086,No Service,Medium,Resolved,2025-02-01 16:00:00
+TKT00740,2025-01-31 19:00:00,Hyderabad,T002,Call Drop,Medium,In Progress,
+TKT00741,2025-01-31 20:00:00,Mumbai,T088,Call Drop,Critical,Resolved,2025-02-01 02:00:00
+TKT00742,2025-01-31 21:00:00,Hyderabad,T072,Network Outage,Medium,Resolved,2025-02-02 09:00:00
+TKT00743,2025-01-31 22:00:00,Mumbai,T011,High Latency,High,Resolved,2025-02-02 19:00:00
+TKT00744,2025-01-31 23:00:00,Hyderabad,T064,No Service,High,Resolved,2025-02-02 11:00:00
+TKT00745,2025-02-01 00:00:00,Delhi,T077,Call Drop,Low,Resolved,2025-02-01 22:00:00
+TKT00746,2025-02-01 01:00:00,Delhi,T081,No Service,Critical,Resolved,2025-02-01 15:00:00
+TKT00747,2025-02-01 02:00:00,Delhi,T072,Call Drop,Low,Resolved,2025-02-01 18:00:00
+TKT00748,2025-02-01 03:00:00,Delhi,T021,No Service,High,In Progress,
+TKT00749,2025-02-01 04:00:00,Pune,T018,Slow Internet,Low,Resolved,2025-02-02 16:00:00
+TKT00750,2025-02-01 05:00:00,Delhi,T094,Call Drop,High,In Progress,
+TKT00751,2025-02-01 06:00:00,Bangalore,T064,No Service,Low,Open,
+TKT00752,2025-02-01 07:00:00,Bangalore,T082,High Latency,Medium,Resolved,2025-02-02 08:00:00
+TKT00753,2025-02-01 08:00:00,Pune,T095,Slow Internet,Low,Open,
+TKT00754,2025-02-01 09:00:00,Delhi,T038,Slow Internet,Medium,Resolved,2025-02-02 17:00:00
+TKT00755,2025-02-01 10:00:00,Delhi,T032,High Latency,Medium,Resolved,2025-02-02 19:00:00
+TKT00756,2025-02-01 11:00:00,Delhi,T011,No Service,Critical,Resolved,2025-02-03 08:00:00
+TKT00757,2025-02-01 12:00:00,Hyderabad,T045,Network Outage,Medium,Resolved,2025-02-03 00:00:00
+TKT00758,2025-02-01 13:00:00,Mumbai,T089,High Latency,Medium,Resolved,2025-02-02 09:00:00
+TKT00759,2025-02-01 14:00:00,Hyderabad,T033,No Service,Low,Resolved,2025-02-02 08:00:00
+TKT00760,2025-02-01 15:00:00,Mumbai,T041,High Latency,High,Resolved,2025-02-03 05:00:00
+TKT00761,2025-02-01 16:00:00,Delhi,T008,High Latency,Critical,Resolved,2025-02-01 19:00:00
+TKT00762,2025-02-01 17:00:00,Delhi,T011,Call Drop,Medium,In Progress,
+TKT00763,2025-02-01 18:00:00,Hyderabad,T086,No Service,Critical,Resolved,2025-02-02 17:00:00
+TKT00764,2025-02-01 19:00:00,Hyderabad,T051,Network Outage,Low,Resolved,2025-02-03 03:00:00
+TKT00765,2025-02-01 20:00:00,Mumbai,T088,Call Drop,Medium,Resolved,2025-02-03 17:00:00
+TKT00766,2025-02-01 21:00:00,Bangalore,T041,High Latency,Low,Resolved,2025-02-02 13:00:00
+TKT00767,2025-02-01 22:00:00,Mumbai,T017,High Latency,Critical,Resolved,2025-02-02 03:00:00
+TKT00768,2025-02-01 23:00:00,Hyderabad,T076,High Latency,Low,In Progress,
+TKT00769,2025-02-02 00:00:00,Hyderabad,T046,No Service,Critical,Resolved,2025-02-02 04:00:00
+TKT00770,2025-02-02 01:00:00,Pune,T032,No Service,Low,Resolved,2025-02-02 22:00:00
+TKT00771,2025-02-02 02:00:00,Hyderabad,T079,Call Drop,Critical,Open,
+TKT00772,2025-02-02 03:00:00,Pune,T080,Network Outage,High,Open,
+TKT00773,2025-02-02 04:00:00,Bangalore,T054,Call Drop,Low,Resolved,2025-02-03 20:00:00
+TKT00774,2025-02-02 05:00:00,Mumbai,T086,Slow Internet,Low,Resolved,2025-02-02 19:00:00
+TKT00775,2025-02-02 06:00:00,Mumbai,T092,High Latency,High,Resolved,2025-02-03 21:00:00
+TKT00776,2025-02-02 07:00:00,Pune,T020,High Latency,High,Resolved,2025-02-03 14:00:00
+TKT00777,2025-02-02 08:00:00,Mumbai,T033,High Latency,Low,Resolved,2025-02-02 22:00:00
+TKT00778,2025-02-02 09:00:00,Hyderabad,T074,Call Drop,High,Resolved,2025-02-02 15:00:00
+TKT00779,2025-02-02 10:00:00,Delhi,T040,Call Drop,Medium,In Progress,
+TKT00780,2025-02-02 11:00:00,Pune,T032,High Latency,Critical,Resolved,2025-02-02 23:00:00
+TKT00781,2025-02-02 12:00:00,Mumbai,T097,Call Drop,Critical,Resolved,2025-02-03 04:00:00
+TKT00782,2025-02-02 13:00:00,Pune,T002,No Service,Critical,Resolved,2025-02-03 06:00:00
+TKT00783,2025-02-02 14:00:00,Pune,T097,No Service,Medium,Resolved,2025-02-04 11:00:00
+TKT00784,2025-02-02 15:00:00,Delhi,T033,Call Drop,High,Resolved,2025-02-03 14:00:00
+TKT00785,2025-02-02 16:00:00,Hyderabad,T077,High Latency,High,Resolved,2025-02-03 06:00:00
+TKT00786,2025-02-02 17:00:00,Pune,T030,Call Drop,Low,Open,
+TKT00787,2025-02-02 18:00:00,Mumbai,T033,Call Drop,High,Resolved,2025-02-03 01:00:00
+TKT00788,2025-02-02 19:00:00,Bangalore,T077,Call Drop,Low,Resolved,2025-02-04 17:00:00
+TKT00789,2025-02-02 20:00:00,Pune,T026,Slow Internet,Medium,Resolved,2025-02-04 04:00:00
+TKT00790,2025-02-02 21:00:00,Pune,T022,No Service,Critical,Resolved,2025-02-03 12:00:00
+TKT00791,2025-02-02 22:00:00,Delhi,T066,Network Outage,Critical,Resolved,2025-02-04 18:00:00
+TKT00792,2025-02-02 23:00:00,Hyderabad,T038,Network Outage,Critical,Resolved,2025-02-03 16:00:00
+TKT00793,2025-02-03 00:00:00,Bangalore,T090,Slow Internet,High,Resolved,2025-02-04 17:00:00
+TKT00794,2025-02-03 01:00:00,Mumbai,T046,Call Drop,Low,In Progress,
+TKT00795,2025-02-03 02:00:00,Bangalore,T015,Slow Internet,Low,Resolved,2025-02-05 01:00:00
+TKT00796,2025-02-03 03:00:00,Mumbai,T098,Slow Internet,Medium,Resolved,2025-02-04 23:00:00
+TKT00797,2025-02-03 04:00:00,Hyderabad,T044,High Latency,High,Resolved,2025-02-04 14:00:00
+TKT00798,2025-02-03 05:00:00,Mumbai,T049,No Service,Medium,In Progress,
+TKT00799,2025-02-03 06:00:00,Delhi,T075,Network Outage,Low,Resolved,2025-02-03 11:00:00
+TKT00800,2025-02-03 07:00:00,Delhi,T061,Call Drop,Low,Resolved,2025-02-05 04:00:00
+TKT00801,2025-02-03 08:00:00,Delhi,T067,Network Outage,Critical,Resolved,2025-02-04 11:00:00
+TKT00802,2025-02-03 09:00:00,Delhi,T006,Network Outage,High,Resolved,2025-02-04 08:00:00
+TKT00803,2025-02-03 10:00:00,Bangalore,T009,No Service,Low,Resolved,2025-02-05 02:00:00
+TKT00804,2025-02-03 11:00:00,Hyderabad,T006,Network Outage,Critical,Resolved,2025-02-04 01:00:00
+TKT00805,2025-02-03 12:00:00,Mumbai,T073,Network Outage,High,Resolved,2025-02-04 03:00:00
+TKT00806,2025-02-03 13:00:00,Mumbai,T095,Slow Internet,Medium,Resolved,2025-02-05 08:00:00
+TKT00807,2025-02-03 14:00:00,Delhi,T032,No Service,High,Open,
+TKT00808,2025-02-03 15:00:00,Delhi,T041,High Latency,High,Resolved,2025-02-05 00:00:00
+TKT00809,2025-02-03 16:00:00,Pune,T076,Call Drop,Low,Resolved,2025-02-04 23:00:00
+TKT00810,2025-02-03 17:00:00,Hyderabad,T008,Network Outage,Low,Resolved,2025-02-05 04:00:00
+TKT00811,2025-02-03 18:00:00,Bangalore,T072,Call Drop,High,In Progress,
+TKT00812,2025-02-03 19:00:00,Mumbai,T050,High Latency,Low,Resolved,2025-02-04 12:00:00
+TKT00813,2025-02-03 20:00:00,Pune,T092,Call Drop,Low,Open,
+TKT00814,2025-02-03 21:00:00,Pune,T062,High Latency,Low,Resolved,2025-02-05 01:00:00
+TKT00815,2025-02-03 22:00:00,Mumbai,T084,Slow Internet,Critical,Resolved,2025-02-04 17:00:00
+TKT00816,2025-02-03 23:00:00,Bangalore,T062,Network Outage,Critical,In Progress,
+TKT00817,2025-02-04 00:00:00,Pune,T007,High Latency,High,Resolved,2025-02-05 22:00:00
+TKT00818,2025-02-04 01:00:00,Pune,T075,Call Drop,Low,Resolved,2025-02-05 00:00:00
+TKT00819,2025-02-04 02:00:00,Hyderabad,T084,Network Outage,Critical,Open,
+TKT00820,2025-02-04 03:00:00,Bangalore,T080,Slow Internet,High,Resolved,2025-02-05 11:00:00
+TKT00821,2025-02-04 04:00:00,Pune,T004,Network Outage,Low,Resolved,2025-02-05 20:00:00
+TKT00822,2025-02-04 05:00:00,Bangalore,T006,High Latency,Medium,Resolved,2025-02-04 18:00:00
+TKT00823,2025-02-04 06:00:00,Mumbai,T058,Slow Internet,Low,Resolved,2025-02-05 02:00:00
+TKT00824,2025-02-04 07:00:00,Delhi,T022,Call Drop,Low,Resolved,2025-02-05 18:00:00
+TKT00825,2025-02-04 08:00:00,Pune,T026,Slow Internet,Critical,Resolved,2025-02-04 13:00:00
+TKT00826,2025-02-04 09:00:00,Hyderabad,T003,Slow Internet,High,Resolved,2025-02-04 18:00:00
+TKT00827,2025-02-04 10:00:00,Mumbai,T041,No Service,High,Resolved,2025-02-05 15:00:00
+TKT00828,2025-02-04 11:00:00,Bangalore,T060,Slow Internet,Critical,Resolved,2025-02-04 17:00:00
+TKT00829,2025-02-04 12:00:00,Mumbai,T014,Slow Internet,Low,Open,
+TKT00830,2025-02-04 13:00:00,Pune,T075,Network Outage,Medium,Resolved,2025-02-05 14:00:00
+TKT00831,2025-02-04 14:00:00,Bangalore,T082,Call Drop,Low,In Progress,
+TKT00832,2025-02-04 15:00:00,Delhi,T012,Network Outage,Low,Resolved,2025-02-05 22:00:00
+TKT00833,2025-02-04 16:00:00,Mumbai,T087,Network Outage,Medium,Resolved,2025-02-05 14:00:00
+TKT00834,2025-02-04 17:00:00,Pune,T012,High Latency,Critical,Resolved,2025-02-04 19:00:00
+TKT00835,2025-02-04 18:00:00,Hyderabad,T013,Network Outage,High,Resolved,2025-02-06 15:00:00
+TKT00836,2025-02-04 19:00:00,Bangalore,T025,No Service,Critical,Resolved,2025-02-05 00:00:00
+TKT00837,2025-02-04 20:00:00,Mumbai,T045,No Service,Critical,Resolved,2025-02-05 23:00:00
+TKT00838,2025-02-04 21:00:00,Mumbai,T019,High Latency,Low,Resolved,2025-02-05 22:00:00
+TKT00839,2025-02-04 22:00:00,Delhi,T055,Call Drop,High,In Progress,
+TKT00840,2025-02-04 23:00:00,Delhi,T100,Call Drop,High,Resolved,2025-02-05 07:00:00
+TKT00841,2025-02-05 00:00:00,Hyderabad,T045,Network Outage,Critical,Resolved,2025-02-05 01:00:00
+TKT00842,2025-02-05 01:00:00,Hyderabad,T008,Network Outage,Medium,Resolved,2025-02-05 21:00:00
+TKT00843,2025-02-05 02:00:00,Pune,T093,Network Outage,Critical,Resolved,2025-02-06 22:00:00
+TKT00844,2025-02-05 03:00:00,Pune,T053,Call Drop,Medium,Resolved,2025-02-06 02:00:00
+TKT00845,2025-02-05 04:00:00,Hyderabad,T055,Slow Internet,High,Resolved,2025-02-06 12:00:00
+TKT00846,2025-02-05 05:00:00,Hyderabad,T032,No Service,Critical,In Progress,
+TKT00847,2025-02-05 06:00:00,Bangalore,T051,Slow Internet,Low,Resolved,2025-02-05 17:00:00
+TKT00848,2025-02-05 07:00:00,Delhi,T044,Slow Internet,Critical,Resolved,2025-02-06 22:00:00
+TKT00849,2025-02-05 08:00:00,Pune,T082,Call Drop,High,Resolved,2025-02-07 07:00:00
+TKT00850,2025-02-05 09:00:00,Delhi,T070,Slow Internet,Low,Resolved,2025-02-06 09:00:00
+TKT00851,2025-02-05 10:00:00,Delhi,T018,High Latency,Low,Resolved,2025-02-05 21:00:00
+TKT00852,2025-02-05 11:00:00,Hyderabad,T083,Network Outage,Medium,Resolved,2025-02-06 16:00:00
+TKT00853,2025-02-05 12:00:00,Bangalore,T022,High Latency,Low,Resolved,2025-02-06 14:00:00
+TKT00854,2025-02-05 13:00:00,Mumbai,T037,No Service,Low,Resolved,2025-02-06 05:00:00
+TKT00855,2025-02-05 14:00:00,Bangalore,T096,Network Outage,Critical,Resolved,2025-02-07 01:00:00
+TKT00856,2025-02-05 15:00:00,Bangalore,T056,Slow Internet,High,Resolved,2025-02-06 11:00:00
+TKT00857,2025-02-05 16:00:00,Delhi,T059,No Service,Medium,Resolved,2025-02-07 14:00:00
+TKT00858,2025-02-05 17:00:00,Bangalore,T003,Network Outage,Critical,Resolved,2025-02-05 20:00:00
+TKT00859,2025-02-05 18:00:00,Pune,T028,Slow Internet,Low,Resolved,2025-02-05 19:00:00
+TKT00860,2025-02-05 19:00:00,Delhi,T074,High Latency,Low,In Progress,
+TKT00861,2025-02-05 20:00:00,Pune,T035,Network Outage,Medium,Open,
+TKT00862,2025-02-05 21:00:00,Mumbai,T061,Slow Internet,High,Open,
+TKT00863,2025-02-05 22:00:00,Delhi,T093,High Latency,Medium,Resolved,2025-02-07 21:00:00
+TKT00864,2025-02-05 23:00:00,Mumbai,T054,No Service,Critical,Resolved,2025-02-06 00:00:00
+TKT00865,2025-02-06 00:00:00,Delhi,T063,No Service,Medium,Resolved,2025-02-06 17:00:00
+TKT00866,2025-02-06 01:00:00,Hyderabad,T079,No Service,Low,Open,
+TKT00867,2025-02-06 02:00:00,Bangalore,T097,No Service,Critical,Resolved,2025-02-06 04:00:00
+TKT00868,2025-02-06 03:00:00,Hyderabad,T007,Call Drop,Low,In Progress,
+TKT00869,2025-02-06 04:00:00,Mumbai,T076,Network Outage,High,In Progress,
+TKT00870,2025-02-06 05:00:00,Bangalore,T049,Network Outage,Low,Resolved,2025-02-07 10:00:00
+TKT00871,2025-02-06 06:00:00,Delhi,T094,Call Drop,Low,Resolved,2025-02-07 02:00:00
+TKT00872,2025-02-06 07:00:00,Bangalore,T085,Slow Internet,Medium,Resolved,2025-02-06 13:00:00
+TKT00873,2025-02-06 08:00:00,Pune,T031,Slow Internet,Low,Open,
+TKT00874,2025-02-06 09:00:00,Bangalore,T058,No Service,Critical,Resolved,2025-02-06 17:00:00
+TKT00875,2025-02-06 10:00:00,Pune,T061,High Latency,Critical,Open,
+TKT00876,2025-02-06 11:00:00,Bangalore,T024,Slow Internet,High,Resolved,2025-02-07 16:00:00
+TKT00877,2025-02-06 12:00:00,Pune,T020,High Latency,Critical,Resolved,2025-02-08 12:00:00
+TKT00878,2025-02-06 13:00:00,Mumbai,T037,Network Outage,Medium,In Progress,
+TKT00879,2025-02-06 14:00:00,Hyderabad,T004,High Latency,High,Resolved,2025-02-07 23:00:00
+TKT00880,2025-02-06 15:00:00,Delhi,T092,Network Outage,Critical,Resolved,2025-02-06 18:00:00
+TKT00881,2025-02-06 16:00:00,Bangalore,T020,Call Drop,Medium,Resolved,2025-02-08 03:00:00
+TKT00882,2025-02-06 17:00:00,Hyderabad,T060,Call Drop,Critical,Resolved,2025-02-06 22:00:00
+TKT00883,2025-02-06 18:00:00,Delhi,T024,No Service,Critical,Resolved,2025-02-07 21:00:00
+TKT00884,2025-02-06 19:00:00,Delhi,T050,Slow Internet,Low,Resolved,2025-02-08 15:00:00
+TKT00885,2025-02-06 20:00:00,Pune,T049,No Service,Critical,In Progress,
+TKT00886,2025-02-06 21:00:00,Mumbai,T051,Network Outage,Critical,Open,
+TKT00887,2025-02-06 22:00:00,Mumbai,T096,No Service,Medium,Resolved,2025-02-07 10:00:00
+TKT00888,2025-02-06 23:00:00,Hyderabad,T036,High Latency,Medium,Resolved,2025-02-07 19:00:00
+TKT00889,2025-02-07 00:00:00,Mumbai,T098,Network Outage,Low,Resolved,2025-02-08 21:00:00
+TKT00890,2025-02-07 01:00:00,Bangalore,T100,Call Drop,Critical,Resolved,2025-02-07 21:00:00
+TKT00891,2025-02-07 02:00:00,Mumbai,T066,Slow Internet,Low,In Progress,
+TKT00892,2025-02-07 03:00:00,Hyderabad,T079,Network Outage,Critical,Resolved,2025-02-07 12:00:00
+TKT00893,2025-02-07 04:00:00,Mumbai,T034,Network Outage,High,Resolved,2025-02-08 19:00:00
+TKT00894,2025-02-07 05:00:00,Bangalore,T036,High Latency,High,Resolved,2025-02-07 09:00:00
+TKT00895,2025-02-07 06:00:00,Pune,T006,Slow Internet,Low,Resolved,2025-02-08 01:00:00
+TKT00896,2025-02-07 07:00:00,Hyderabad,T039,Call Drop,Low,Resolved,2025-02-08 21:00:00
+TKT00897,2025-02-07 08:00:00,Pune,T042,Network Outage,Low,Resolved,2025-02-08 11:00:00
+TKT00898,2025-02-07 09:00:00,Pune,T058,Network Outage,Medium,Resolved,2025-02-09 06:00:00
+TKT00899,2025-02-07 10:00:00,Pune,T012,High Latency,Medium,Resolved,2025-02-09 05:00:00
+TKT00900,2025-02-07 11:00:00,Delhi,T003,No Service,Medium,Resolved,2025-02-08 00:00:00
+TKT00901,2025-02-07 12:00:00,Delhi,T018,Call Drop,Low,Resolved,2025-02-08 01:00:00
+TKT00902,2025-02-07 13:00:00,Pune,T040,Slow Internet,Critical,Resolved,2025-02-08 11:00:00
+TKT00903,2025-02-07 14:00:00,Hyderabad,T021,Network Outage,High,Resolved,2025-02-08 18:00:00
+TKT00904,2025-02-07 15:00:00,Bangalore,T015,Network Outage,Low,Resolved,2025-02-09 14:00:00
+TKT00905,2025-02-07 16:00:00,Bangalore,T097,Call Drop,Medium,Resolved,2025-02-09 13:00:00
+TKT00906,2025-02-07 17:00:00,Mumbai,T099,No Service,Medium,Resolved,2025-02-08 15:00:00
+TKT00907,2025-02-07 18:00:00,Hyderabad,T026,Network Outage,Low,Resolved,2025-02-09 13:00:00
+TKT00908,2025-02-07 19:00:00,Delhi,T008,Call Drop,Low,In Progress,
+TKT00909,2025-02-07 20:00:00,Pune,T100,High Latency,Medium,In Progress,
+TKT00910,2025-02-07 21:00:00,Mumbai,T094,No Service,Critical,Resolved,2025-02-08 16:00:00
+TKT00911,2025-02-07 22:00:00,Bangalore,T087,Slow Internet,Medium,In Progress,
+TKT00912,2025-02-07 23:00:00,Delhi,T042,Network Outage,Medium,Resolved,2025-02-08 07:00:00
+TKT00913,2025-02-08 00:00:00,Delhi,T044,Call Drop,Low,Resolved,2025-02-08 08:00:00
+TKT00914,2025-02-08 01:00:00,Pune,T014,High Latency,Critical,Resolved,2025-02-09 19:00:00
+TKT00915,2025-02-08 02:00:00,Bangalore,T078,Slow Internet,Medium,Resolved,2025-02-09 04:00:00
+TKT00916,2025-02-08 03:00:00,Hyderabad,T002,Call Drop,Medium,Resolved,2025-02-10 03:00:00
+TKT00917,2025-02-08 04:00:00,Delhi,T037,Call Drop,High,Resolved,2025-02-09 06:00:00
+TKT00918,2025-02-08 05:00:00,Pune,T069,Slow Internet,Low,Resolved,2025-02-09 04:00:00
+TKT00919,2025-02-08 06:00:00,Hyderabad,T038,High Latency,High,Resolved,2025-02-10 01:00:00
+TKT00920,2025-02-08 07:00:00,Bangalore,T041,High Latency,High,Resolved,2025-02-08 20:00:00
+TKT00921,2025-02-08 08:00:00,Delhi,T062,No Service,Medium,In Progress,
+TKT00922,2025-02-08 09:00:00,Hyderabad,T060,Network Outage,Low,Resolved,2025-02-09 13:00:00
+TKT00923,2025-02-08 10:00:00,Hyderabad,T014,Slow Internet,Critical,Resolved,2025-02-08 19:00:00
+TKT00924,2025-02-08 11:00:00,Hyderabad,T089,Slow Internet,Medium,Resolved,2025-02-09 07:00:00
+TKT00925,2025-02-08 12:00:00,Delhi,T084,Slow Internet,Critical,Resolved,2025-02-09 07:00:00
+TKT00926,2025-02-08 13:00:00,Delhi,T002,High Latency,Critical,Resolved,2025-02-10 13:00:00
+TKT00927,2025-02-08 14:00:00,Mumbai,T070,Network Outage,Low,Resolved,2025-02-10 05:00:00
+TKT00928,2025-02-08 15:00:00,Bangalore,T017,No Service,High,Resolved,2025-02-09 03:00:00
+TKT00929,2025-02-08 16:00:00,Pune,T089,Call Drop,Low,Resolved,2025-02-09 07:00:00
+TKT00930,2025-02-08 17:00:00,Hyderabad,T028,Call Drop,Critical,Resolved,2025-02-10 00:00:00
+TKT00931,2025-02-08 18:00:00,Mumbai,T066,Slow Internet,Medium,Resolved,2025-02-09 08:00:00
+TKT00932,2025-02-08 19:00:00,Pune,T035,Network Outage,Critical,Resolved,2025-02-09 06:00:00
+TKT00933,2025-02-08 20:00:00,Mumbai,T005,High Latency,Medium,Resolved,2025-02-09 22:00:00
+TKT00934,2025-02-08 21:00:00,Delhi,T065,Network Outage,Medium,Resolved,2025-02-10 15:00:00
+TKT00935,2025-02-08 22:00:00,Hyderabad,T040,Network Outage,Low,Resolved,2025-02-10 01:00:00
+TKT00936,2025-02-08 23:00:00,Pune,T076,High Latency,Critical,Open,
+TKT00937,2025-02-09 00:00:00,Pune,T056,Slow Internet,High,In Progress,
+TKT00938,2025-02-09 01:00:00,Pune,T036,Network Outage,Critical,In Progress,
+TKT00939,2025-02-09 02:00:00,Pune,T045,Call Drop,Critical,Resolved,2025-02-09 13:00:00
+TKT00940,2025-02-09 03:00:00,Pune,T023,High Latency,High,Resolved,2025-02-10 17:00:00
+TKT00941,2025-02-09 04:00:00,Mumbai,T047,No Service,Low,Resolved,2025-02-10 14:00:00
+TKT00942,2025-02-09 05:00:00,Hyderabad,T031,Slow Internet,Critical,Resolved,2025-02-11 00:00:00
+TKT00943,2025-02-09 06:00:00,Delhi,T011,High Latency,Critical,Resolved,2025-02-10 01:00:00
+TKT00944,2025-02-09 07:00:00,Delhi,T010,No Service,Medium,Resolved,2025-02-09 13:00:00
+TKT00945,2025-02-09 08:00:00,Delhi,T067,No Service,Critical,In Progress,
+TKT00946,2025-02-09 09:00:00,Delhi,T014,Network Outage,High,Resolved,2025-02-11 07:00:00
+TKT00947,2025-02-09 10:00:00,Mumbai,T080,Network Outage,Medium,In Progress,
+TKT00948,2025-02-09 11:00:00,Bangalore,T074,Network Outage,Low,Resolved,2025-02-11 01:00:00
+TKT00949,2025-02-09 12:00:00,Hyderabad,T093,High Latency,Medium,Resolved,2025-02-11 06:00:00
+TKT00950,2025-02-09 13:00:00,Pune,T010,High Latency,High,Resolved,2025-02-10 17:00:00
+TKT00951,2025-02-09 14:00:00,Bangalore,T076,Slow Internet,High,Resolved,2025-02-09 15:00:00
+TKT00952,2025-02-09 15:00:00,Delhi,T094,Network Outage,Medium,Resolved,2025-02-11 02:00:00
+TKT00953,2025-02-09 16:00:00,Bangalore,T001,No Service,Low,Resolved,2025-02-11 08:00:00
+TKT00954,2025-02-09 17:00:00,Hyderabad,T005,Call Drop,Medium,Resolved,2025-02-10 01:00:00
+TKT00955,2025-02-09 18:00:00,Pune,T020,Slow Internet,Low,Resolved,2025-02-11 17:00:00
+TKT00956,2025-02-09 19:00:00,Pune,T008,High Latency,Medium,Open,
+TKT00957,2025-02-09 20:00:00,Hyderabad,T043,Slow Internet,High,Open,
+TKT00958,2025-02-09 21:00:00,Hyderabad,T076,Slow Internet,Critical,In Progress,
+TKT00959,2025-02-09 22:00:00,Delhi,T001,Slow Internet,Critical,Resolved,2025-02-10 05:00:00
+TKT00960,2025-02-09 23:00:00,Pune,T057,Slow Internet,Low,Resolved,2025-02-10 10:00:00
+TKT00961,2025-02-10 00:00:00,Bangalore,T064,Call Drop,Low,Resolved,2025-02-11 15:00:00
+TKT00962,2025-02-10 01:00:00,Mumbai,T084,Network Outage,Low,Resolved,2025-02-10 05:00:00
+TKT00963,2025-02-10 02:00:00,Mumbai,T028,No Service,High,Resolved,2025-02-11 03:00:00
+TKT00964,2025-02-10 03:00:00,Hyderabad,T037,Slow Internet,Medium,Resolved,2025-02-10 15:00:00
+TKT00965,2025-02-10 04:00:00,Delhi,T047,Slow Internet,High,Resolved,2025-02-11 06:00:00
+TKT00966,2025-02-10 05:00:00,Mumbai,T076,Slow Internet,Critical,Resolved,2025-02-11 19:00:00
+TKT00967,2025-02-10 06:00:00,Pune,T037,Network Outage,Low,Resolved,2025-02-12 04:00:00
+TKT00968,2025-02-10 07:00:00,Hyderabad,T049,High Latency,Medium,Resolved,2025-02-10 19:00:00
+TKT00969,2025-02-10 08:00:00,Bangalore,T044,High Latency,Critical,Resolved,2025-02-12 03:00:00
+TKT00970,2025-02-10 09:00:00,Hyderabad,T056,Call Drop,Critical,Resolved,2025-02-11 22:00:00
+TKT00971,2025-02-10 10:00:00,Bangalore,T028,High Latency,Critical,Resolved,2025-02-12 08:00:00
+TKT00972,2025-02-10 11:00:00,Hyderabad,T079,Slow Internet,High,Resolved,2025-02-11 11:00:00
+TKT00973,2025-02-10 12:00:00,Hyderabad,T006,Slow Internet,Low,Resolved,2025-02-11 04:00:00
+TKT00974,2025-02-10 13:00:00,Hyderabad,T061,Slow Internet,Critical,Resolved,2025-02-11 02:00:00
+TKT00975,2025-02-10 14:00:00,Bangalore,T020,Call Drop,Low,Resolved,2025-02-11 15:00:00
+TKT00976,2025-02-10 15:00:00,Bangalore,T078,Slow Internet,High,Resolved,2025-02-10 19:00:00
+TKT00977,2025-02-10 16:00:00,Hyderabad,T002,High Latency,Critical,Resolved,2025-02-11 03:00:00
+TKT00978,2025-02-10 17:00:00,Mumbai,T073,Network Outage,High,Resolved,2025-02-12 01:00:00
+TKT00979,2025-02-10 18:00:00,Delhi,T037,Network Outage,High,In Progress,
+TKT00980,2025-02-10 19:00:00,Delhi,T020,No Service,Low,Resolved,2025-02-11 02:00:00
+TKT00981,2025-02-10 20:00:00,Delhi,T026,High Latency,Critical,Resolved,2025-02-12 18:00:00
+TKT00982,2025-02-10 21:00:00,Bangalore,T029,Slow Internet,High,Resolved,2025-02-11 08:00:00
+TKT00983,2025-02-10 22:00:00,Bangalore,T001,Network Outage,Critical,Resolved,2025-02-12 02:00:00
+TKT00984,2025-02-10 23:00:00,Mumbai,T035,High Latency,Low,Resolved,2025-02-12 16:00:00
+TKT00985,2025-02-11 00:00:00,Delhi,T070,Network Outage,High,Resolved,2025-02-11 23:00:00
+TKT00986,2025-02-11 01:00:00,Delhi,T059,Slow Internet,Low,Resolved,2025-02-12 22:00:00
+TKT00987,2025-02-11 02:00:00,Hyderabad,T069,Network Outage,Critical,Resolved,2025-02-12 01:00:00
+TKT00988,2025-02-11 03:00:00,Bangalore,T033,No Service,Critical,Resolved,2025-02-12 07:00:00
+TKT00989,2025-02-11 04:00:00,Delhi,T051,No Service,Low,Resolved,2025-02-12 23:00:00
+TKT00990,2025-02-11 05:00:00,Mumbai,T078,Network Outage,Medium,Open,
+TKT00991,2025-02-11 06:00:00,Mumbai,T012,High Latency,High,Resolved,2025-02-13 05:00:00
+TKT00992,2025-02-11 07:00:00,Delhi,T020,High Latency,Critical,In Progress,
+TKT00993,2025-02-11 08:00:00,Bangalore,T053,High Latency,Critical,Resolved,2025-02-12 10:00:00
+TKT00994,2025-02-11 09:00:00,Mumbai,T088,Network Outage,High,In Progress,
+TKT00995,2025-02-11 10:00:00,Hyderabad,T043,High Latency,Low,In Progress,
+TKT00996,2025-02-11 11:00:00,Mumbai,T098,Slow Internet,Low,Resolved,2025-02-12 12:00:00
+TKT00997,2025-02-11 12:00:00,Pune,T089,No Service,Low,Resolved,2025-02-12 17:00:00
+TKT00998,2025-02-11 13:00:00,Pune,T050,Slow Internet,Medium,Resolved,2025-02-12 08:00:00
+TKT00999,2025-02-11 14:00:00,Bangalore,T029,High Latency,Medium,Resolved,2025-02-12 23:00:00
+TKT01000,2025-02-11 15:00:00,Delhi,T057,Slow Internet,Critical,Resolved,2025-02-13 03:00:00
